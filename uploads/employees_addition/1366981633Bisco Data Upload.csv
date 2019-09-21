@@ -1,0 +1,739 @@
+NAME,RELATIONSHIP,DOB,AGE,SEX,ID CARD NO,EMP ID,OCCUPATION,EMAIL,Phone
+Suresh Sadasivam,self,29-Feb-72,46,Male,LI0002,LI0002,1) Self,rakesh177@gmail.com,9849064645
+Bhuvaneshwari,Spouse,11/01/1981,37,Female,LI0002,LI0002,2) Spouse,rakesh177@gmail.com,9849064645
+S. Geethika Shri,Children,23/10/2012,5,Female,LI0002,LI0002,3) Children,rakesh177@gmail.com,9849064645
+D. Satyanarayana Murthy,self,16-Dec-55,62,Male,LI0003,LI0003,1) Self,rakesh177@gmail.com,9849064645
+Sarada,Spouse,28/02/1960,58,Female,LI0003,LI0003,2) Spouse,rakesh177@gmail.com,9849064645
+K.L.Narayana,self,08-May-79,39,Male,LI0004,LI0004,1) Self,rakesh177@gmail.com,9849064645
+K.Archana,Spouse,19/10/1984,33,Female,LI0004,LI0004,2) Spouse,rakesh177@gmail.com,9849064645
+K.Vishnu,Children,17/04/2009,9,Male,LI0004,LI0004,3) Children,rakesh177@gmail.com,9849064645
+K.Sanjana,Children,19/03/2011,7,Female,LI0004,LI0004,3) Children,rakesh177@gmail.com,9849064645
+Srinivas Mogilisetti,self,06-May-75,43,Male,LI0005,LI0005,1) Self,rakesh177@gmail.com,9849064645
+Niranjan Agarwal,self,13-Jan-73,45,Male,LI0006,LI0006,1) Self,rakesh177@gmail.com,9849064645
+Kumkum,Spouse,12/12/1978,39,Female,LI0006,LI0006,2) Spouse,rakesh177@gmail.com,9849064645
+Ayush Agarwal,Children,30/01/2002,16,Male,LI0006,LI0006,3) Children,rakesh177@gmail.com,9849064645
+Sejal Agarwal,Children,06/08/2004,13,Female,LI0006,LI0006,3) Children,rakesh177@gmail.com,9849064645
+Manoj Kumar  Mishra,self,01-Jan-71,47,Male,LI0008,LI0008,1) Self,rakesh177@gmail.com,9849064645
+Baby Mishra,Spouse,28/06/1972,46,Female,LI0008,LI0008,2) Spouse,rakesh177@gmail.com,9849064645
+Anuradha Mishra,Children,11/05/2000,18,Female,LI0008,LI0008,3) Children,rakesh177@gmail.com,9849064645
+Chandra Bhushan Pandey,self,15-Sep-62,55,Male,LI0009,LI0009,1) Self,rakesh177@gmail.com,9849064645
+Mrs.Vineeta Kumari,Spouse,09/02/1970,48,Female,LI0009,LI0009,2) Spouse,rakesh177@gmail.com,9849064645
+Utkarsh,Children,30/05/1992,26,Male,LI0009,LI0009,3) Children,rakesh177@gmail.com,9849064645
+Ajeeta Kumari,Children,03/01/1996,22,Female,LI0009,LI0009,3) Children,rakesh177@gmail.com,9849064645
+Subodh Kumar Dubey,self,15-Jan-66,52,Male,LI0010,LI0010,1) Self,rakesh177@gmail.com,9849064645
+Bindu Devi,Spouse,09/02/1975,43,Female,LI0010,LI0010,2) Spouse,rakesh177@gmail.com,9849064645
+Abhishek Dubey,Children,15/12/1994,23,Male,LI0010,LI0010,3) Children,rakesh177@gmail.com,9849064645
+Ramakant Mishra,self,25-Jun-79,39,Male,LI0011,LI0011,1) Self,rakesh177@gmail.com,9849064645
+Suman Mishra,Spouse,15/02/1980,38,Female,LI0011,LI0011,2) Spouse,rakesh177@gmail.com,9849064645
+Prachi Mishra,Children,21/07/2003,14,Female,LI0011,LI0011,3) Children,rakesh177@gmail.com,9849064645
+Preeti Mishra,Children,26/09/2007,10,Female,LI0011,LI0011,3) Children,rakesh177@gmail.com,9849064645
+Rakesh Kumar Karan,self,20-Aug-71,46,Male,LI0012,LI0012,1) Self,rakesh177@gmail.com,9849064645
+Rammi Karan,Spouse,13/02/1974,44,Female,LI0012,LI0012,2) Spouse,rakesh177@gmail.com,9849064645
+Rajesh Kumar Gaur,self,14-Oct-64,53,Male,LI0013,LI0013,1) Self,rakesh177@gmail.com,9849064645
+Smt. Savita Gaur,Spouse,12/01/1971,47,Female,LI0013,LI0013,2) Spouse,rakesh177@gmail.com,9849064645
+Vishal Vashistha,Children,01/01/1991,27,Male,LI0013,LI0013,3) Children,rakesh177@gmail.com,9849064645
+Vaishali Vashistha,Children,01/01/1993,25,Female,LI0013,LI0013,3) Children,rakesh177@gmail.com,9849064645
+Vagish Chandra Mishra,self,11-Jan-74,44,Male,LI0014,LI0014,1) Self,rakesh177@gmail.com,9849064645
+Ranjana Mishra,Spouse,04/12/1982,35,Female,LI0014,LI0014,2) Spouse,rakesh177@gmail.com,9849064645
+Shivam Mishra,Children,27/07/2005,12,Male,LI0014,LI0014,3) Children,rakesh177@gmail.com,9849064645
+Nishant Mishra,Children,21/02/2009,9,Male,LI0014,LI0014,3) Children,rakesh177@gmail.com,9849064645
+S.G. Nagraj,self,12-May-73,45,Male,LI0016,LI0016,1) Self,rakesh177@gmail.com,9849064645
+Surekha B.A,Spouse,02/05/1978,40,Female,LI0016,LI0016,2) Spouse,rakesh177@gmail.com,9849064645
+Pratibha G.N,Children,11/01/2007,11,Female,LI0016,LI0016,3) Children,rakesh177@gmail.com,9849064645
+Suchitha G.N,Children,05/02/2011,7,Female,LI0016,LI0016,3) Children,rakesh177@gmail.com,9849064645
+Sripathi Thakur,self,03-Jan-71,47,Male,LI0018,LI0018,1) Self,rakesh177@gmail.com,9849064645
+Neelu Devi,Spouse,09/07/1978,40,Female,LI0018,LI0018,2) Spouse,rakesh177@gmail.com,9849064645
+Mani Kant,Children,23/06/2002,16,Male,LI0018,LI0018,3) Children,rakesh177@gmail.com,9849064645
+Shubharm Thakur,Children,03/05/2004,14,Male,LI0018,LI0018,3) Children,rakesh177@gmail.com,9849064645
+T.N. Girish,self,05-Sep-79,38,Male,LI0020,LI0020,1) Self,rakesh177@gmail.com,9849064645
+Ralla Kishore Kumar,self,05-Jun-81,37,Male,LI0023,LI0023,1) Self,rakesh177@gmail.com,9849064645
+Ralla Vijaya Lakshmi,Spouse,24/12/1985,32,Female,LI0023,LI0023,2) Spouse,rakesh177@gmail.com,9849064645
+Ralla Sharmila,Children,21/01/2010,8,Female,LI0023,LI0023,3) Children,rakesh177@gmail.com,9849064645
+Deepak Kumar Ralla,Children,11/07/2013,5,Male,LI0023,LI0023,3) Children,rakesh177@gmail.com,9849064645
+Ranjan Kumar Varma,self,15-Feb-76,42,Male,LI0024,LI0024,1) Self,rakesh177@gmail.com,9849064645
+Sony Verma,Spouse,05/05/1981,37,Female,LI0024,LI0024,2) Spouse,rakesh177@gmail.com,9849064645
+Ankit Anand Verma,Children,27/01/2007,11,Male,LI0024,LI0024,3) Children,rakesh177@gmail.com,9849064645
+Adarsh Anand Verma,Children,15/02/2010,8,Male,LI0024,LI0024,3) Children,rakesh177@gmail.com,9849064645
+Ranjit Kumar,self,25-Dec-75,42,Male,LI0026,LI0026,1) Self,rakesh177@gmail.com,9849064645
+Mona Kumari,Spouse,20/12/1984,33,Female,LI0026,LI0026,2) Spouse,rakesh177@gmail.com,9849064645
+Aradhaya,Children,08/03/2012,6,Female,LI0026,LI0026,3) Children,rakesh177@gmail.com,9849064645
+MD. Mosaheb ,self,20-Mar-69,49,Male,LI0027,LI0027,1) Self,rakesh177@gmail.com,9849064645
+Hasantara Khatun,Spouse,19/11/1981,36,Female,LI0027,LI0027,2) Spouse,rakesh177@gmail.com,9849064645
+Phul Sehara Khatun,Children,04/11/1998,19,Male,LI0027,LI0027,3) Children,rakesh177@gmail.com,9849064645
+Noor Sehara Khatun,Children,15/06/2000,18,Female,LI0027,LI0027,3) Children,rakesh177@gmail.com,9849064645
+Surendra Sharma,self,12-Dec-66,51,Male,LI0028,LI0028,1) Self,rakesh177@gmail.com,9849064645
+Kumari Devi,Spouse,09/05/1973,45,Female,LI0028,LI0028,2) Spouse,rakesh177@gmail.com,9849064645
+Kundan Kumar Sharma,Children,17/03/1995,23,Male,LI0028,LI0028,3) Children,rakesh177@gmail.com,9849064645
+Annu Kumari,Children,15/12/1996,21,Female,LI0028,LI0028,3) Children,rakesh177@gmail.com,9849064645
+Surendra Pandey,self,20-Nov-57,60,Male,LI0029,LI0029,1) Self,rakesh177@gmail.com,9849064645
+Smt. Rambha Devi,Spouse,02/03/1967,51,Female,LI0029,LI0029,2) Spouse,rakesh177@gmail.com,9849064645
+Balwant Pandey,Children,25/08/1993,24,Male,LI0029,LI0029,3) Children,rakesh177@gmail.com,9849064645
+Sunita Pandey,Children,19/06/1996,22,Female,LI0029,LI0029,3) Children,rakesh177@gmail.com,9849064645
+Darsenala Narsing Rao,self,04-Jun-70,48,Male,LI0030,LI0030,1) Self,rakesh177@gmail.com,9849064645
+D PedaLakshmi,Spouse,03-Feb-75,43,Female,LI0030,LI0030,2) Spouse,rakesh177@gmail.com,9849064645
+D Shiva Kumar,Children,17-May-88,30,Male,LI0030,LI0030,3) Children,rakesh177@gmail.com,9849064645
+D .MAHESH,Children,15/08/1990,27,Male,LI0030,LI0030,3) Children,rakesh177@gmail.com,9849064645
+Taranand Karan,self,19-Apr-61,57,Male,LI0031,LI0031,1) Self,rakesh177@gmail.com,9849064645
+Manorama Karan,Spouse,03-May-60,58,Female,LI0031,LI0031,2) Spouse,rakesh177@gmail.com,9849064645
+Vireshwar Anand,Children,05-Jul-89,29,Male,LI0031,LI0031,3) Children,rakesh177@gmail.com,9849064645
+Ashish Kumar Jha ,self,04-Apr-80,38,Male,LI0032,LI0032,1) Self,rakesh177@gmail.com,9849064645
+Pinky Jha,Spouse,10-Nov-84,33,Female,LI0032,LI0032,2) Spouse,rakesh177@gmail.com,9849064645
+Niraj Kumar Srivasthava,self,19-May-72,46,Male,LI0036,LI0036,1) Self,rakesh177@gmail.com,9849064645
+Priya Shrivastava,Spouse,29/10/1983,34,Female,LI0036,LI0036,2) Spouse,rakesh177@gmail.com,9849064645
+Akanksha  Shrivastava,Children,28/11/2003,14,Female,LI0036,LI0036,3) Children,rakesh177@gmail.com,9849064645
+Abhinav  Shrivastava,Children,17/02/2007,11,Male,LI0036,LI0036,3) Children,rakesh177@gmail.com,9849064645
+Gannoju Ramakrishna Chary,self,17-Oct-76,41,Male,LI0038,LI0038,1) Self,rakesh177@gmail.com,9849064645
+G Jaya Laxmi,Spouse,29/07/1984,33,Female,LI0038,LI0038,2) Spouse,rakesh177@gmail.com,9849064645
+G Sreesanth,Children,20/06/2006,12,Male,LI0038,LI0038,3) Children,rakesh177@gmail.com,9849064645
+G Laasya,Children,23/06/2009,9,Female,LI0038,LI0038,3) Children,rakesh177@gmail.com,9849064645
+Niraj Kumar  Srivastav II,self,05-Jan-80,38,Male,LI0043,LI0043,1) Self,rakesh177@gmail.com,9849064645
+Sangeeta Verma,Spouse,02/04/1984,34,Female,LI0043,LI0043,2) Spouse,rakesh177@gmail.com,9849064645
+Shivam Kumar,Children,05/02/2002,16,Male,LI0043,LI0043,3) Children,rakesh177@gmail.com,9849064645
+Payal Kumari,Children,15/04/2004,14,Female,LI0043,LI0043,3) Children,rakesh177@gmail.com,9849064645
+Suresh Kumar Singh,self,03-Jan-66,52,Male,LI0044,LI0044,1) Self,rakesh177@gmail.com,9849064645
+Renu Singh,Spouse,01/01/1975,43,Female,LI0044,LI0044,2) Spouse,rakesh177@gmail.com,9849064645
+Amit Raj Singh,Children,20/01/1995,23,Male,LI0044,LI0044,3) Children,rakesh177@gmail.com,9849064645
+Anand Mohan,Children,02/02/1996,22,Male,LI0044,LI0044,3) Children,rakesh177@gmail.com,9849064645
+Uday Kumar Singh,self,05-Feb-77,41,Male,LI0045,LI0045,1) Self,rakesh177@gmail.com,9849064645
+Rubby Singh,Spouse,04/10/1971,46,Female,LI0045,LI0045,2) Spouse,rakesh177@gmail.com,9849064645
+Arnab Kumar,Children,24/04/2012,6,Male,LI0045,LI0045,3) Children,rakesh177@gmail.com,9849064645
+Shilpi Kumari,Children,09/01/2013,5,Female,LI0045,LI0045,3) Children,rakesh177@gmail.com,9849064645
+P. Srinivas Rao,self,07-Jan-45,73,Male,LI0047,LI0047,1) Self,rakesh177@gmail.com,9849064645
+P.Suvarchala Devi,Spouse,01/01/1950,68,Female,LI0047,LI0047,2) Spouse,rakesh177@gmail.com,9849064645
+Suresh Chenchala,self,10-Jan-79,39,Male,LI0048,LI0048,1) Self,rakesh177@gmail.com,9849064645
+Ch.Indira,Spouse,16/06/1984,34,Female,LI0048,LI0048,2) Spouse,rakesh177@gmail.com,9849064645
+Abhishek,Children,23/05/2003,15,Male,LI0048,LI0048,3) Children,rakesh177@gmail.com,9849064645
+Manisha,Children,01/04/2005,13,Female,LI0048,LI0048,3) Children,rakesh177@gmail.com,9849064645
+Muralikrishna Undavali Chandrashekara,self,10-May-78,40,Male,LI0049,LI0049,1) Self,rakesh177@gmail.com,9849064645
+Tarakanth Jha,self,13-Dec-62,55,Male,LI0050,LI0050,1) Self,rakesh177@gmail.com,9849064645
+Rekha Devi,Spouse,05/05/1965,53,Female,LI0050,LI0050,2) Spouse,rakesh177@gmail.com,9849064645
+Chandra Kant Jha,Children,10/12/1989,28,Male,LI0050,LI0050,3) Children,rakesh177@gmail.com,9849064645
+Rajni Kant Jha,Children,28/11/1992,25,Male,LI0050,LI0050,3) Children,rakesh177@gmail.com,9849064645
+Kuchalakanti Prabhakar Rao,self,17-Jul-64,54,Male,LI0051,LI0051,1) Self,rakesh177@gmail.com,9849064645
+K. Prasanna,Spouse,04/06/1971,47,Female,LI0051,LI0051,2) Spouse,rakesh177@gmail.com,9849064645
+K. Pravallika,Children,30/10/1994,23,Female,LI0051,LI0051,3) Children,rakesh177@gmail.com,9849064645
+Brajesh Kumar Jha,self,05-Jan-72,46,Male,LI0054,LI0054,1) Self,rakesh177@gmail.com,9849064645
+Seema Jha,Spouse,15/01/1977,41,Female,LI0054,LI0054,2) Spouse,rakesh177@gmail.com,9849064645
+Priya,Children,24/01/2005,13,Female,LI0054,LI0054,3) Children,rakesh177@gmail.com,9849064645
+Ujjwal,Children,24/01/2005,13,Male,LI0054,LI0054,3) Children,rakesh177@gmail.com,9849064645
+Madanlal Mandloi,self,11-Sep-65,52,Male,LI0055,LI0055,1) Self,rakesh177@gmail.com,9849064645
+Kusum Mandloi,Spouse,05/12/1973,44,Female,LI0055,LI0055,2) Spouse,rakesh177@gmail.com,9849064645
+Jai Mandloi,Children,11/06/1997,21,Male,LI0055,LI0055,3) Children,rakesh177@gmail.com,9849064645
+Rafic S. Pathan,self,08-Mar-69,49,Male,LI0056,LI0056,1) Self,rakesh177@gmail.com,9849064645
+Nishat Akhtar Rafic Pathan,Spouse,12-May-76,42,Female,LI0056,LI0056,2) Spouse,rakesh177@gmail.com,9849064645
+Pathan Arbaaz Rafic,Children,28/01/1995,23,Male,LI0056,LI0056,3) Children,rakesh177@gmail.com,9849064645
+Pathan Arshiya Rafic,Children,30/12/1996,21,Female,LI0056,LI0056,3) Children,rakesh177@gmail.com,9849064645
+Nandu Yadav,self,04-Mar-76,42,Male,LI0058,LI0058,1) Self,rakesh177@gmail.com,9849064645
+Kalwathi Devi,Spouse,04/01/1982,36,Female,LI0058,LI0058,2) Spouse,rakesh177@gmail.com,9849064645
+Abhishek Kumar Yadav,Children,01/09/2006,11,Male,LI0058,LI0058,3) Children,rakesh177@gmail.com,9849064645
+ Abhimanyu Kumar Yadav,Children,02/02/2008,10,Male,LI0058,LI0058,3) Children,rakesh177@gmail.com,9849064645
+Manoj Kumar Sharma,self,04-Feb-69,49,Male,LI0062,LI0062,1) Self,rakesh177@gmail.com,9849064645
+Sandhya,Spouse,08/02/1973,45,Female,LI0062,LI0062,2) Spouse,rakesh177@gmail.com,9849064645
+Shridhar,Children,09/01/2005,13,Male,LI0062,LI0062,3) Children,rakesh177@gmail.com,9849064645
+Devika,Children,03/07/2011,7,Female,LI0062,LI0062,3) Children,rakesh177@gmail.com,9849064645
+Surendra Kumar,self,01-Dec-70,47,Male,LI0063,LI0063,1) Self,rakesh177@gmail.com,9849064645
+Kumari Sujata,Spouse,22/05/1970,48,Female,LI0063,LI0063,2) Spouse,rakesh177@gmail.com,9849064645
+Surbhi Raj,Children,15/08/2002,15,Male,LI0063,LI0063,3) Children,rakesh177@gmail.com,9849064645
+Aditya Raj,Children,18/04/2006,12,Male,LI0063,LI0063,3) Children,rakesh177@gmail.com,9849064645
+Kamal Kishore Mundada,self,27-Apr-65,53,Male,LI0064,LI0064,1) Self,rakesh177@gmail.com,9849064645
+Deepika Mundada,Spouse,17/11/1968,49,Female,LI0064,LI0064,2) Spouse,rakesh177@gmail.com,9849064645
+Komal Mundada,Children,12/05/1993,25,Male,LI0064,LI0064,3) Children,rakesh177@gmail.com,9849064645
+Nitin Mundada,Children,16/05/1995,23,Male,LI0064,LI0064,3) Children,rakesh177@gmail.com,9849064645
+Y.Veera Venkata Rajan         ,self,10-Apr-69,49,Male,LI0065,LI0065,1) Self,rakesh177@gmail.com,9849064645
+V.S.Geetha Kumari,Spouse,07/07/1973,45,Female,LI0065,LI0065,2) Spouse,rakesh177@gmail.com,9849064645
+Bhargav Sai Krishna,Children,11/05/2008,10,Male,LI0065,LI0065,3) Children,rakesh177@gmail.com,9849064645
+Methusel Parnandi,self,11-Jan-81,37,Male,LI0068,LI0068,1) Self,rakesh177@gmail.com,9849064645
+Rosa Florina Parnandi,Spouse,12/05/1974,44,Female,LI0068,LI0068,2) Spouse,rakesh177@gmail.com,9849064645
+Aletheia Rosanna Parnandi,Children,18/03/2010,8,Female,LI0068,LI0068,3) Children,rakesh177@gmail.com,9849064645
+Aslan Judah Parnand,Children,18/10/2013,4,Male,LI0068,LI0068,3) Children,rakesh177@gmail.com,9849064645
+Abhishek Achyut Raje,self,26-Jun-78,40,Male,LI0069,LI0069,1) Self,rakesh177@gmail.com,9849064645
+Sonali Abhishek Raje,Spouse,07/09/1982,35,Female,LI0069,LI0069,2) Spouse,rakesh177@gmail.com,9849064645
+Ayush Abhisekh Raje,Children,07/06/2010,8,Male,LI0069,LI0069,3) Children,rakesh177@gmail.com,9849064645
+Deepak Saxena,self,28-May-82,36,Male,LI0072,LI0072,1) Self,rakesh177@gmail.com,9849064645
+Deepali Saxena,Spouse,11/05/1982,36,Female,LI0072,LI0072,2) Spouse,rakesh177@gmail.com,9849064645
+Ayush Saxena,Children,06/08/2007,10,Male,LI0072,LI0072,3) Children,rakesh177@gmail.com,9849064645
+Surendra Singh Bhadauriya,self,01-Jan-74,44,Male,LI0074,LI0074,1) Self,rakesh177@gmail.com,9849064645
+Beena Singh,Spouse,01/02/1976,42,Female,LI0074,LI0074,2) Spouse,rakesh177@gmail.com,9849064645
+Shreyance Pratap Singh,Children,01/09/2005,12,Male,LI0074,LI0074,3) Children,rakesh177@gmail.com,9849064645
+Prashanth Kumar,self,05-Oct-84,33,Male,LI0076,LI0076,1) Self,rakesh177@gmail.com,9849064645
+Shalu Sharma,Spouse,24/09/1988,29,Female,LI0076,LI0076,2) Spouse,rakesh177@gmail.com,9849064645
+Aditya Sharma,Children,13/09/2014,3,Male,LI0076,LI0076,3) Children,rakesh177@gmail.com,9849064645
+Ravindra Fulsing Ingle,self,12-Jul-74,44,Male,LI0077,LI0077,1) Self,rakesh177@gmail.com,9849064645
+Jyoti Ravindra Ingale,Spouse,11/11/1986,31,Female,LI0077,LI0077,2) Spouse,rakesh177@gmail.com,9849064645
+Aniket,Children,02/09/2005,12,Male,LI0077,LI0077,3) Children,rakesh177@gmail.com,9849064645
+Srushti,Children,29/01/2009,9,Female,LI0077,LI0077,3) Children,rakesh177@gmail.com,9849064645
+Sanjeeva Kumar,self,12-Oct-66,51,Male,LI0080,LI0080,1) Self,rakesh177@gmail.com,9849064645
+Seema Kumari,Spouse,05/03/1971,47,Female,LI0080,LI0080,2) Spouse,rakesh177@gmail.com,9849064645
+Rahul Kumar,Children,19/03/1991,27,Male,LI0080,LI0080,3) Children,rakesh177@gmail.com,9849064645
+Rohit Kumar,Children,09/12/1997,20,Male,LI0080,LI0080,3) Children,rakesh177@gmail.com,9849064645
+Manoj Kumar  ,self,05-Oct-75,42,Male,LI0081,LI0081,1) Self,rakesh177@gmail.com,9849064645
+Puspa Devi,Spouse,27/11/1983,34,Female,LI0081,LI0081,2) Spouse,rakesh177@gmail.com,9849064645
+Ashutosh Kumar,Children,01/07/1997,21,Male,LI0081,LI0081,3) Children,rakesh177@gmail.com,9849064645
+Puja Kumari,Children,03/06/1998,20,Female,LI0081,LI0081,3) Children,rakesh177@gmail.com,9849064645
+Sunil Kisanrao Jawale,self,15-Oct-76,41,Male,LI0082,LI0082,1) Self,rakesh177@gmail.com,9849064645
+Sapna Sunil Jawale,Spouse,10/04/1979,39,Female,LI0082,LI0082,2) Spouse,rakesh177@gmail.com,9849064645
+Sakshi Sunil Jawale,Children,01/11/2004,13,Female,LI0082,LI0082,3) Children,rakesh177@gmail.com,9849064645
+Saanvi Sunil Jawale,Children,17/09/2012,5,Female,LI0082,LI0082,3) Children,rakesh177@gmail.com,9849064645
+Ranjit Kumar Jha,self,20-Dec-79,38,Male,LI0083,LI0083,1) Self,rakesh177@gmail.com,9849064645
+Jaya Jha,Spouse,18/08/1987,30,Female,LI0083,LI0083,2) Spouse,rakesh177@gmail.com,9849064645
+Manoganya Jha,Children,26/04/2007,11,Female,LI0083,LI0083,3) Children,rakesh177@gmail.com,9849064645
+Abhiganya Jha,Children,24/04/2008,10,Female,LI0083,LI0083,3) Children,rakesh177@gmail.com,9849064645
+Amarjit Kumar,self,01-Mar-83,35,Male,LI0084,LI0084,1) Self,rakesh177@gmail.com,9849064645
+Sunita  Kumari,Spouse,03/07/1991,27,Female,LI0084,LI0084,2) Spouse,rakesh177@gmail.com,9849064645
+Aditya,Children,29/09/2013,4,Male,LI0084,LI0084,3) Children,rakesh177@gmail.com,9849064645
+Sanjay Kumar Nayak,self,05-Feb-77,41,Male,LI0085,LI0085,1) Self,rakesh177@gmail.com,9849064645
+Tara Nayak,Spouse,15/01/1985,33,Female,LI0085,LI0085,2) Spouse,rakesh177@gmail.com,9849064645
+Bhashkar,Children,30/05/2010,8,Male,LI0085,LI0085,3) Children,rakesh177@gmail.com,9849064645
+Varun,Children,20/02/2013,5,Male,LI0085,LI0085,3) Children,rakesh177@gmail.com,9849064645
+Jeetendra Kumar,self,20-Apr-82,36,Male,LI0086,LI0086,1) Self,rakesh177@gmail.com,9849064645
+Sangeeta Devi,Spouse,26/01/1989,29,Female,LI0086,LI0086,2) Spouse,rakesh177@gmail.com,9849064645
+Joyti,Children,28/01/2011,7,Female,LI0086,LI0086,3) Children,rakesh177@gmail.com,9849064645
+Gunjan,Children,18/06/2014,4,Male,LI0086,LI0086,3) Children,rakesh177@gmail.com,9849064645
+Gunjan Srivastava,self,24-Feb-87,31,Male,LI0087,LI0087,1) Self,rakesh177@gmail.com,9849064645
+Sony Srivastava,Children,04/08/1991,26,Female,LI0087,LI0087,3) Children,rakesh177@gmail.com,9849064645
+Samikasha Srivastava,Children,15/10/2011,6,Male,LI0087,LI0087,3) Children,rakesh177@gmail.com,9849064645
+Shiksha Srivastava,Children,24/05/2013,5,Female,LI0087,LI0087,3) Children,rakesh177@gmail.com,9849064645
+Sujit Kumar,self,28-Feb-74,44,Male,LI0088,LI0088,1) Self,rakesh177@gmail.com,9849064645
+Binod Singh,self,01-Jan-63,55,Male,LI0089,LI0089,1) Self,rakesh177@gmail.com,9849064645
+Asha Rani,Spouse,01-Jan-67,51,Female,LI0089,LI0089,2) Spouse,rakesh177@gmail.com,9849064645
+Anu Kumari,Children,05-Feb-94,24,Female,LI0089,LI0089,3) Children,rakesh177@gmail.com,9849064645
+Manoram Kumari,Children,01-Feb-98,20,Female,LI0089,LI0089,3) Children,rakesh177@gmail.com,9849064645
+Mohan Lal,self,01-Jan-74,44,Male,LI0090,LI0090,1) Self,rakesh177@gmail.com,9849064645
+Archna Devi,Spouse,01-Jan-79,39,Female,LI0090,LI0090,2) Spouse,rakesh177@gmail.com,9849064645
+Vivek Kumar,Children,27-Mar-00,18,Male,LI0090,LI0090,3) Children,rakesh177@gmail.com,9849064645
+Shiwani Kumari,Children,20-Jun-04,14,Female,LI0090,LI0090,3) Children,rakesh177@gmail.com,9849064645
+Sanjeev Mishra,self,05-Jul-84,34,Male,LI0091,LI0091,1) Self,rakesh177@gmail.com,9849064645
+Mamta mishra,Spouse,10-Apr-89,29,Female,LI0091,LI0091,2) Spouse,rakesh177@gmail.com,9849064645
+Himanshu Mishra,Children,23-Apr-09,9,Male,LI0091,LI0091,3) Children,rakesh177@gmail.com,9849064645
+Ankus Kumar,Children,21-Mar-12,6,Male,LI0091,LI0091,3) Children,rakesh177@gmail.com,9849064645
+Ramashray R. Yadav,self,30-Jul-62,55,Male,LI0092,LI0092,1) Self,rakesh177@gmail.com,9849064645
+Malati R. Yadav,Spouse,06/11/1964,53,Female,LI0092,LI0092,2) Spouse,rakesh177@gmail.com,9849064645
+Garima R. Yadav,Children,30/03/1991,27,Female,LI0092,LI0092,3) Children,rakesh177@gmail.com,9849064645
+Chandrasen Singh,self,15-Jan-72,46,Male,LI0093,LI0093,1) Self,rakesh177@gmail.com,9849064645
+Rekha Rani Singh,Spouse,14/06/1974,44,Female,LI0093,LI0093,2) Spouse,rakesh177@gmail.com,9849064645
+Ankit Singh,Children,23/09/1995,22,Male,LI0093,LI0093,3) Children,rakesh177@gmail.com,9849064645
+Priya Singh,Children,18/10/1999,18,Female,LI0093,LI0093,3) Children,rakesh177@gmail.com,9849064645
+Ramakrishna Vemula,self,10-Jun-86,32,Male,LI0094,LI0094,1) Self,rakesh177@gmail.com,9849064645
+V Priyanka,Spouse,26-Mar-91,27,Female,LI0094,LI0094,2) Spouse,rakesh177@gmail.com,9849064645
+V Sindhura,Children,08-Mar-16,2,Female,LI0094,LI0094,3) Children,rakesh177@gmail.com,9849064645
+Maheshwara Gauda Hadagali,self,01-May-68,50,Male,LI0097,LI0097,1) Self,rakesh177@gmail.com,9849064645
+Manjula Maheshwargouda,Spouse,17/02/1978,40,Female,LI0097,LI0097,2) Spouse,rakesh177@gmail.com,9849064645
+Yallappagouda,Children,08/12/2005,12,Male,LI0097,LI0097,3) Children,rakesh177@gmail.com,9849064645
+Sumant Minor,Children,03/04/2011,7,Male,LI0097,LI0097,3) Children,rakesh177@gmail.com,9849064645
+G. Aswatnarayanappa,self,04-May-70,48,Male,LI0099,LI0099,1) Self,rakesh177@gmail.com,9849064645
+B sushela,Spouse,06-May-80,38,Female,LI0099,LI0099,2) Spouse,rakesh177@gmail.com,9849064645
+A Hemanth,Children,06-Feb-01,17,Male,LI0099,LI0099,3) Children,rakesh177@gmail.com,9849064645
+A Bhavana,Children,27-Mar-03,15,Female,LI0099,LI0099,3) Children,rakesh177@gmail.com,9849064645
+B. Nagraj,self,01-Jun-70,48,Male,LI0101,LI0101,1) Self,rakesh177@gmail.com,9849064645
+B Sunitha ,Spouse,01-Jun-81,37,Female,LI0101,LI0101,2) Spouse,rakesh177@gmail.com,9849064645
+M Pooja,Children,19-Feb-00,18,Female,LI0101,LI0101,3) Children,rakesh177@gmail.com,9849064645
+Madhukar Tukaram Pawar,self,02-Jun-70,48,Male,LI0115,LI0115,1) Self,rakesh177@gmail.com,9849064645
+Manisha Madhukar Pawar,Spouse,18/04/1990,28,Female,LI0115,LI0115,2) Spouse,rakesh177@gmail.com,9849064645
+Hariom Madhukar Pawar,Children,28/12/1998,19,Male,LI0115,LI0115,3) Children,rakesh177@gmail.com,9849064645
+Soham Madhukar Pawar,Children,01/03/2005,13,Male,LI0115,LI0115,3) Children,rakesh177@gmail.com,9849064645
+Kumar Wins,self,03-Dec-77,40,Male,LI0116,LI0116,1) Self,rakesh177@gmail.com,9849064645
+Sangeeta Sinha,Spouse,12/01/1978,40,Female,LI0116,LI0116,2) Spouse,rakesh177@gmail.com,9849064645
+Shanvi Raj,Children,11/03/2007,11,Male,LI0116,LI0116,3) Children,rakesh177@gmail.com,9849064645
+Santosh  Karan,self,01-Mar-77,41,Male,LI0119,LI0119,1) Self,rakesh177@gmail.com,9849064645
+Nikki Verma,Spouse,05/10/1989,28,Female,LI0119,LI0119,2) Spouse,rakesh177@gmail.com,9849064645
+Aryan,Children,22/08/2010,7,Male,LI0119,LI0119,3) Children,rakesh177@gmail.com,9849064645
+Bhaghat Singh Narukha,self,09-May-58,60,Male,LI0120,LI0120,1) Self,rakesh177@gmail.com,9849064645
+Ratna Naruka,Spouse,21/06/1965,53,Female,LI0120,LI0120,2) Spouse,rakesh177@gmail.com,9849064645
+Jaikrit Singh Naruka,Children,11/05/1990,28,Male,LI0120,LI0120,3) Children,rakesh177@gmail.com,9849064645
+Kirtika Naruka,Children,28/09/1994,23,Female,LI0120,LI0120,3) Children,rakesh177@gmail.com,9849064645
+Amresh Pandey,self,01/09/1980,37,Male,LI0123,LI0123,1) Self,rakesh177@gmail.com,9849064645
+Lalita Devi,Spouse,05/10/1983,34,Female,LI0123,LI0123,2) Spouse,rakesh177@gmail.com,9849064645
+Prince Kumar,Children,01/01/2006,12,Male,LI0123,LI0123,3) Children,rakesh177@gmail.com,9849064645
+khushbu kumari,Children,14/01/2011,7,Female,LI0123,LI0123,3) Children,rakesh177@gmail.com,9849064645
+Anil  Kumar  Yadav (2),self,05-Jan-74,44,Male,LI0130,LI0130,1) Self,rakesh177@gmail.com,9849064645
+Nirmala Yadav,Spouse,01/07/1988,30,Female,LI0130,LI0130,2) Spouse,rakesh177@gmail.com,9849064645
+Sathyam Yadav,Children,22/04/2009,9,Male,LI0130,LI0130,3) Children,rakesh177@gmail.com,9849064645
+Shivam Yadav,Children,08/01/2011,7,Male,LI0130,LI0130,3) Children,rakesh177@gmail.com,9849064645
+Saroj Kumar,self,16-Jun-72,46,Male,LI0131,LI0131,1) Self,rakesh177@gmail.com,9849064645
+Juli Kumari,Spouse,01-Jul-76,42,Female,LI0131,LI0131,2) Spouse,rakesh177@gmail.com,9849064645
+K.Simran,Children,31-Jan-00,18,Female,LI0131,LI0131,3) Children,rakesh177@gmail.com,9849064645
+K.Srishti,Children,31-Jan-03,15,Female,LI0131,LI0131,3) Children,rakesh177@gmail.com,9849064645
+K.Swarit Raj,Children,05-Jul-06,12,Male,LI0131,LI0131,3) Children,rakesh177@gmail.com,9849064645
+Rakesh Kumar Mishra,self,24/07/1980,37,Male,LI0132,LI0132,1) Self,rakesh177@gmail.com,9849064645
+khushboo Mishra,Spouse,01/01/1989,29,Female,LI0132,LI0132,2) Spouse,rakesh177@gmail.com,9849064645
+Priyanshu Kumar Mishra,Children,21/03/2013,5,Male,LI0132,LI0132,3) Children,rakesh177@gmail.com,9849064645
+Dibyanshu kumar Mishra,Children,02/02/2015,3,male,LI0132,LI0132,3) Children,rakesh177@gmail.com,9849064645
+Sapna kumari,Children,06/05/2009,9,Female,LI0132,LI0132,3) Children,rakesh177@gmail.com,9849064645
+Abasaheb Dhepe,self,01-Jan-75,43,Male,LI0136,LI0136,1) Self,rakesh177@gmail.com,9849064645
+Archana Abasahed Dhepe,Spouse,01/06/1985,33,Female,LI0136,LI0136,2) Spouse,rakesh177@gmail.com,9849064645
+Pranav Abasahed Dhepe,Children,27/02/2004,14,Male,LI0136,LI0136,3) Children,rakesh177@gmail.com,9849064645
+Sehgal Abasahed Dhepe,Children,27/02/2004,14,Male,LI0136,LI0136,3) Children,rakesh177@gmail.com,9849064645
+Nidhikant Tiwary,self,20-Jan-78,40,Male,LI0138,LI0138,1) Self,rakesh177@gmail.com,9849064645
+Shashibala Devi,Spouse,20/10/1983,34,Female,LI0138,LI0138,2) Spouse,rakesh177@gmail.com,9849064645
+Ujjawal Kumar,Children,25/08/2001,16,Male,LI0138,LI0138,3) Children,rakesh177@gmail.com,9849064645
+Sushma Kumari,Children,08/03/2004,14,Female,LI0138,LI0138,3) Children,rakesh177@gmail.com,9849064645
+Pradeep Kumar Mishra,self,30-Dec-72,45,Male,LI0139,LI0139,1) Self,rakesh177@gmail.com,9849064645
+Priyanka Mishra,Spouse,04/05/1986,32,Female,LI0139,LI0139,2) Spouse,rakesh177@gmail.com,9849064645
+Kuldeep Mishra,Children,11/04/2002,16,Male,LI0139,LI0139,3) Children,rakesh177@gmail.com,9849064645
+Rouna Mishra,Children,30/12/2003,14,Male,LI0139,LI0139,3) Children,rakesh177@gmail.com,9849064645
+Avinash Singh,self,15-Jul-82,36,Male,LI0140,LI0140,1) Self,rakesh177@gmail.com,9849064645
+Nishu,Spouse,15-Mar-93,25,Female,LI0140,LI0140,2) Spouse,rakesh177@gmail.com,9849064645
+Subash  Karan,self,06-Apr-76,42,Male,LI0143,LI0143,1) Self,rakesh177@gmail.com,9849064645
+Smt.Bindu Devi,Spouse,15/08/1980,37,Female,LI0143,LI0143,2) Spouse,rakesh177@gmail.com,9849064645
+Kunil Minor,Children,22/08/2009,8,Male,LI0143,LI0143,3) Children,rakesh177@gmail.com,9849064645
+Niraj Kumar Karan,self,23-Mar-84,34,Male,LI0144,LI0144,1) Self,rakesh177@gmail.com,9849064645
+Barsha Karan,Spouse,14-Nov-85,32,Female,LI0144,LI0144,2) Spouse,rakesh177@gmail.com,9849064645
+Pravin Kumar,self,01-Apr-75,43,Male,LI0146,LI0146,1) Self,rakesh177@gmail.com,9849064645
+Kanchan Karn,Spouse,05-Jul-80,38,Female,LI0146,LI0146,2) Spouse,rakesh177@gmail.com,9849064645
+Swati Kumari,Children,08-Sep-00,17,Female,LI0146,LI0146,3) Children,rakesh177@gmail.com,9849064645
+Khushi Karn,Children,31-Mar-04,14,Female,LI0146,LI0146,3) Children,rakesh177@gmail.com,9849064645
+Ravi Bhushan Tiwari,self,10-Oct-86,31,Male,LI0147,LI0147,1) Self,rakesh177@gmail.com,9849064645
+Neha Devi,Spouse,05-Nov-87,30,Female,LI0147,LI0147,2) Spouse,rakesh177@gmail.com,9849064645
+Ankitha Kumari,Children,15-Sep-10,7,Female,LI0147,LI0147,3) Children,rakesh177@gmail.com,9849064645
+Krithik Kumar Tiwari,Children,02-Apr-14,4,Male,LI0147,LI0147,3) Children,rakesh177@gmail.com,9849064645
+Dhananjay Kumar Singh,self,27-May-77,41,Male,LI0148,LI0148,1) Self,rakesh177@gmail.com,9849064645
+Sangeetha Devi,Spouse,01-Jul-80,38,Female,LI0148,LI0148,2) Spouse,rakesh177@gmail.com,9849064645
+Nirbhsy Kumar Singh,Children,08-Oct-98,19,Male,LI0148,LI0148,3) Children,rakesh177@gmail.com,9849064645
+Anshu Kumari,Children,21-Jul-00,17,Female,LI0148,LI0148,3) Children,rakesh177@gmail.com,9849064645
+Sumit Kumar Yadav,self,22-Oct-84,33,Male,LI0149,LI0149,1) Self,rakesh177@gmail.com,9849064645
+B.A. Veeresh Kumar,self,06-Jun-83,35,Male,LI0157,LI0157,1) Self,rakesh177@gmail.com,9849064645
+B Rohini,Spouse,14-Nov-87,30,Female,LI0157,LI0157,2) Spouse,rakesh177@gmail.com,9849064645
+B V Sathvik,Children,25-Apr-14,4,Male,LI0157,LI0157,3) Children,rakesh177@gmail.com,9849064645
+K. Madhavi,self,15-Jul-84,34,Female,LI0161,LI0161,1) Self,rakesh177@gmail.com,9849064645
+K.Sai Kumar,Spouse,06/05/1974,44,Male,LI0161,LI0161,2) Spouse,rakesh177@gmail.com,9849064645
+K.Pavithra,Children,25/03/2005,13,Female,LI0161,LI0161,3) Children,rakesh177@gmail.com,9849064645
+Satish Kumar,self,07-Aug-87,30,Male,LI0162,LI0162,1) Self,rakesh177@gmail.com,9849064645
+Sandeep Kumar Verma,self,01-Jan-89,29,Male,LI0169,LI0169,1) Self,rakesh177@gmail.com,9849064645
+Pallvai Kumari,Spouse,18-Aug-95,22,Female,LI0169,LI0169,2) Spouse,rakesh177@gmail.com,9849064645
+Raghavendra Kumar Pal,self,16-Oct-88,29,Male,LI0171,LI0171,1) Self,rakesh177@gmail.com,9849064645
+Radha Pal,Spouse,01/05/1990,28,Female,LI0171,LI0171,2) Spouse,rakesh177@gmail.com,9849064645
+Vaishnavi Pal,Children,22/08/2008,9,Female,LI0171,LI0171,3) Children,rakesh177@gmail.com,9849064645
+Navya Pal,Children,07/08/2012,5,Female,LI0171,LI0171,3) Children,rakesh177@gmail.com,9849064645
+Deepati Pal,Children,10-Feb-15,3,Female,LI0171,LI0171,3) Children,rakesh177@gmail.com,9849064645
+Gayantha Mallesh,self,08-Aug-79,38,Male,LI0172,LI0172,1) Self,rakesh177@gmail.com,9849064645
+Gayantha Viharika,Spouse,03-Jul-90,28,Female,LI0172,LI0172,2) Spouse,rakesh177@gmail.com,9849064645
+Gayantha Vedanth Yadav,Children,02-May-14,4,Male,LI0172,LI0172,3) Children,rakesh177@gmail.com,9849064645
+Gayantha Kushanth Yadav,Children,03-Jul-16,2,Female,LI0172,LI0172,3) Children,rakesh177@gmail.com,9849064645
+Dhanraj Ramdas Patil,self,15-May-75,43,Male,LI0173,LI0173,1) Self,rakesh177@gmail.com,9849064645
+Chhaya Dhanraj Patil,Spouse,05/06/1976,42,Female,LI0173,LI0173,2) Spouse,rakesh177@gmail.com,9849064645
+Roshani,Children,13/11/1993,24,Female,LI0173,LI0173,3) Children,rakesh177@gmail.com,9849064645
+Vasudeva S. Rao,self,06-Jan-65,53,Male,LI0174,LI0174,1) Self,rakesh177@gmail.com,9849064645
+Sanapala Ramana,Spouse,22/06/1978,40,Female,LI0174,LI0174,2) Spouse,rakesh177@gmail.com,9849064645
+Sanapala Leelakrishna,Children,11/09/1998,19,Female,LI0174,LI0174,3) Children,rakesh177@gmail.com,9849064645
+Sanapala Vinodkumar,Children,21/01/2005,13,Male,LI0174,LI0174,3) Children,rakesh177@gmail.com,9849064645
+Sushil Kumar Srivastava,self,10-Aug-72,45,Male,LI0175,LI0175,1) Self,rakesh177@gmail.com,9849064645
+Sima Devi,Spouse,07-Dec-78,39,Female,LI0175,LI0175,2) Spouse,rakesh177@gmail.com,9849064645
+Ritu Kumari,Children,10-Sep-98,19,Female,LI0175,LI0175,3) Children,rakesh177@gmail.com,9849064645
+Sonalika Kumari,Children,22-Nov-99,18,Female,LI0175,LI0175,3) Children,rakesh177@gmail.com,9849064645
+Sidharth Gourav,Children,26-Jun-02,16,Male,LI0175,LI0175,3) Children,rakesh177@gmail.com,9849064645
+Sanjana Kumari,Children,18-Jun-04,14,Female,LI0175,LI0175,3) Children,rakesh177@gmail.com,9849064645
+Ashutosh Sahu,self,26-Feb-71,47,Male,LI0180,LI0180,1) Self,rakesh177@gmail.com,9849064645
+Sanjubala Sahu,Spouse,02/04/1985,33,Female,LI0180,LI0180,2) Spouse,rakesh177@gmail.com,9849064645
+Sofia Sahu,Children,05/12/2004,13,Female,LI0180,LI0180,3) Children,rakesh177@gmail.com,9849064645
+Kumar Anshuman Sahu,Children,23/07/2008,9,Male,LI0180,LI0180,3) Children,rakesh177@gmail.com,9849064645
+Tarachand Prasad,self,15-Apr-86,32,Male,LI0181,LI0181,1) Self,rakesh177@gmail.com,9849064645
+Sobha Devi,Spouse,03/06/1991,27,Female,LI0181,LI0181,2) Spouse,rakesh177@gmail.com,9849064645
+Lacky Prasad,Children,23/12/2009,8,Male,LI0181,LI0181,3) Children,rakesh177@gmail.com,9849064645
+Anjali Kumari,Children,25/02/2012,6,Female,LI0181,LI0181,3) Children,rakesh177@gmail.com,9849064645
+Manoj Kumar Shrivastav,self,02-Nov-69,48,Male,LI0183,LI0183,1) Self,rakesh177@gmail.com,9849064645
+Punam Shrivastava,Spouse,16/10/1971,46,Female,LI0183,LI0183,2) Spouse,rakesh177@gmail.com,9849064645
+Shubham Kumar,Children,13/01/2001,17,Male,LI0183,LI0183,3) Children,rakesh177@gmail.com,9849064645
+Haresh Kumar,self,06-May-69,49,Male,LI0184,LI0184,1) Self,rakesh177@gmail.com,9849064645
+Purnima Devi,Spouse,07/03/1970,48,Female,LI0184,LI0184,2) Spouse,rakesh177@gmail.com,9849064645
+Vabhaw Anand,Children,26/02/1998,20,Male,LI0184,LI0184,3) Children,rakesh177@gmail.com,9849064645
+Abhinaw Kumar,Children,24/12/2002,15,Male,LI0184,LI0184,3) Children,rakesh177@gmail.com,9849064645
+Pradeep Kumar Verma,self,15-Jul-70,48,Male,LI0186,LI0186,1) Self,rakesh177@gmail.com,9849064645
+Pushpa Kumari,Spouse,26/12/1979,38,Female,LI0186,LI0186,2) Spouse,rakesh177@gmail.com,9849064645
+Piryanshu Kumar,Children,11/10/2000,17,Male,LI0186,LI0186,3) Children,rakesh177@gmail.com,9849064645
+Prajwal Kumar,Children,20/01/2002,16,Male,LI0186,LI0186,3) Children,rakesh177@gmail.com,9849064645
+Dhruv Narayan Dubey,self,20-Jul-74,44,Male,LI0188,LI0188,1) Self,rakesh177@gmail.com,9849064645
+Sri mt Vimla Dubey,Spouse,20-Aug-77,40,Female,LI0188,LI0188,2) Spouse,rakesh177@gmail.com,9849064645
+Dhanjay Kumar Dubey,Children,01-May-95,23,Male,LI0188,LI0188,3) Children,rakesh177@gmail.com,9849064645
+Prashant Kumar D,Children,01-Jul-96,22,Male,LI0188,LI0188,3) Children,rakesh177@gmail.com,9849064645
+Devendra Dubey,self,24-Jun-64,54,Male,LI0189,LI0189,1) Self,rakesh177@gmail.com,9849064645
+Manarma Devi,Spouse,10-Jan-66,52,Female,LI0189,LI0189,2) Spouse,rakesh177@gmail.com,9849064645
+Atul Kumar Dubey,Children,20-Sep-82,35,Male,LI0189,LI0189,3) Children,rakesh177@gmail.com,9849064645
+Manorama Devi,Spouse,01-Sep-66,51,Female,LI0189,LI0189,2) Spouse,rakesh177@gmail.com,9849064645
+Arya Verma,Spouse,16-Feb-83,35,Female,LI0190,LI0190,2) Spouse,rakesh177@gmail.com,9849064645
+Om Sharan,Children,21-Sep-05,12,Male,LI0190,LI0190,3) Children,rakesh177@gmail.com,9849064645
+Aditi Sharan,Children,09-Dec-06,11,Female,LI0190,LI0190,3) Children,rakesh177@gmail.com,9849064645
+Manoj Singh,self,18/08/1985,32,Male,LI0191,LI0191,1) Self,rakesh177@gmail.com,9849064645
+Poonam Devi,Spouse,02/09/1987,30,Female,LI0191,LI0191,2) Spouse,rakesh177@gmail.com,9849064645
+Sunil Singh,self,18-Feb-76,42,Male,LI0192,LI0192,1) Self,rakesh177@gmail.com,9849064645
+Mamta Singh,Spouse,06-Feb-81,37,Female,LI0192,LI0192,2) Spouse,rakesh177@gmail.com,9849064645
+Sonu Kumar Singh,Children,01-Oct-96,21,Male,LI0192,LI0192,3) Children,rakesh177@gmail.com,9849064645
+Neha Kumari,Children,01-Oct-96,21,Female,LI0192,LI0192,3) Children,rakesh177@gmail.com,9849064645
+Muskan Kumari,Children,02-Apr-02,16,Female,LI0192,LI0192,3) Children,rakesh177@gmail.com,9849064645
+Rajiv Kumar,self,14-Dec-89,28,Male,LI0193,LI0193,1) Self,rakesh177@gmail.com,9849064645
+Khushboo Devi,Spouse,07-Apr-94,24,Female,LI0193,LI0193,2) Spouse,rakesh177@gmail.com,9849064645
+Shanvee Kumari,Children,14-Jul-14,4,Female,LI0193,LI0193,3) Children,rakesh177@gmail.com,9849064645
+Sanket Kumar Pandey,self,02-Jan-74,44,Male,LI0198,LI0198,1) Self,rakesh177@gmail.com,9849064645
+Kimi Pandey,Spouse,04-May-78,40,Female,LI0198,LI0198,2) Spouse,rakesh177@gmail.com,9849064645
+Ankit Kumar Pandey,Children,28-Mar-01,17,Male,LI0198,LI0198,3) Children,rakesh177@gmail.com,9849064645
+Abhitosh Kumar,self,06-Jun-80,38,Male,LI0200,LI0200,1) Self,rakesh177@gmail.com,9849064645
+Jyoti Srivastava,Spouse,12-Mar-83,35,Female,LI0200,LI0200,2) Spouse,rakesh177@gmail.com,9849064645
+Samrijh Sagar,Children,24-Aug-09,8,Male,LI0200,LI0200,3) Children,rakesh177@gmail.com,9849064645
+Mangesh S. Kothale,self,14-Aug-80,37,Male,LI0226,LI0226,1) Self,rakesh177@gmail.com,9849064645
+Sarla Mangesh Kothale,Spouse,12/02/1987,31,Female,LI0226,LI0226,2) Spouse,rakesh177@gmail.com,9849064645
+Akanksha Mangesh Kothale,Children,15/05/2007,11,Male,LI0226,LI0226,3) Children,rakesh177@gmail.com,9849064645
+Swaraj Mangesh Kothale,Children,15/08/2010,7,Male,LI0226,LI0226,3) Children,rakesh177@gmail.com,9849064645
+C. Srinivas,self,31-Oct-85,32,Male,LI0227,LI0227,1) Self,rakesh177@gmail.com,9849064645
+C.Jyoshna,Spouse,29/01/1988,30,Female,LI0227,LI0227,2) Spouse,rakesh177@gmail.com,9849064645
+C.Lakshmi Mansavi,Children,21/11/2010,7,Female,LI0227,LI0227,3) Children,rakesh177@gmail.com,9849064645
+C.Ramya Sri,Children,04/07/2012,6,Female,LI0227,LI0227,3) Children,rakesh177@gmail.com,9849064645
+Kanchan Sharma,self,12-Aug-88,29,Male,LI0228,LI0228,1) Self,rakesh177@gmail.com,9849064645
+Ramlakhan Mahato,self,28-May-74,44,Male,LI0229,LI0229,1) Self,rakesh177@gmail.com,9849064645
+Fulo Devi,Spouse,01/01/1982,36,Female,LI0229,LI0229,2) Spouse,rakesh177@gmail.com,9849064645
+Sulkha Kumari,Children,25/01/1998,20,Female,LI0229,LI0229,3) Children,rakesh177@gmail.com,9849064645
+Rajesh Mahato,Children,26/06/2001,17,Male,LI0229,LI0229,3) Children,rakesh177@gmail.com,9849064645
+Pooja Devi,self,20-Jun-87,31,Female,LI0230,LI0230,1) Self,rakesh177@gmail.com,9849064645
+Vijay Tiwary,self,07-May-62,56,Male,LI0233,LI0233,1) Self,rakesh177@gmail.com,9849064645
+Asha Devi,Spouse,05-Jul-75,43,Female,LI0233,LI0233,2) Spouse,rakesh177@gmail.com,9849064645
+Susant Kumar,Children,02-Sep-96,21,Male,LI0233,LI0233,3) Children,rakesh177@gmail.com,9849064645
+Anjaneyulu Yadav,self,10-Oct-87,30,Male,LI0234,LI0234,1) Self,rakesh177@gmail.com,9849064645
+S Kavitha,Spouse,24-Aug-91,26,Female,LI0234,LI0234,2) Spouse,rakesh177@gmail.com,9849064645
+S Mannop,Children,24-Jun-10,8,Male,LI0234,LI0234,3) Children,rakesh177@gmail.com,9849064645
+S Methun,Children,02-May-12,6,Male,LI0234,LI0234,3) Children,rakesh177@gmail.com,9849064645
+Sanjeev Nayan,self,01-Jul-65,53,Male,LI0236,LI0236,1) Self,rakesh177@gmail.com,9849064645
+Baby Beena Pani,Spouse,01/07/1973,45,Female,LI0236,LI0236,2) Spouse,rakesh177@gmail.com,9849064645
+Swapnil Nayan,Children,07/12/1998,19,Male,LI0236,LI0236,3) Children,rakesh177@gmail.com,9849064645
+Aryan Nayan,Children,18/05/2004,14,Male,LI0236,LI0236,3) Children,rakesh177@gmail.com,9849064645
+Vijay Kumar Tiwari,self,01-Apr-76,42,Male,LI0241,LI0241,1) Self,rakesh177@gmail.com,9849064645
+Nandini Tiwari,Spouse,01/01/1974,44,Female,LI0241,LI0241,2) Spouse,rakesh177@gmail.com,9849064645
+Avinav Tiwari,Children,24/09/2004,13,Male,LI0241,LI0241,3) Children,rakesh177@gmail.com,9849064645
+Dinesh Kumar Sharma,self,08/08/1986,31,Male,Li0242,Li0242,1) Self,rakesh177@gmail.com,9849064645
+Bhrity Devi,Spouse,27/07/1988,29,Male,Li0242,Li0242,2) Spouse,rakesh177@gmail.com,9849064645
+Naman Sharma,Children,23/06/2010,8,Male,Li0242,Li0242,3) Children,rakesh177@gmail.com,9849064645
+Yash Sharma,Children,14/12/2012,5,Male,Li0242,Li0242,3) Children,rakesh177@gmail.com,9849064645
+Ireni Yadaiah,self,08-Apr-82,36,Male,LI0245,LI0245,1) Self,rakesh177@gmail.com,9849064645
+Vijaya Alias Akila,Spouse,07/05/1985,33,Female,LI0245,LI0245,2) Spouse,rakesh177@gmail.com,9849064645
+Lekya Shri,Children,02/12/2009,8,Female,LI0245,LI0245,3) Children,rakesh177@gmail.com,9849064645
+Deekshitha,Children,10/10/2012,5,Female,LI0245,LI0245,3) Children,rakesh177@gmail.com,9849064645
+Jitendra Kumar Bhargava,self,01-Jul-85,33,Male,LI0247,LI0247,1) Self,rakesh177@gmail.com,9849064645
+Anju,Spouse,25/06/1989,29,Female,LI0247,LI0247,2) Spouse,rakesh177@gmail.com,9849064645
+Nandini,Children,29/05/2011,7,Female,LI0247,LI0247,3) Children,rakesh177@gmail.com,9849064645
+Piyush,Children,07/18/2014,     2,Male,Li0247,Li0247,3) Children,rakesh177@gmail.com,9849064645
+Shiva Kumari Dubey,self,01-Jan-76,42,Female,LI0248,LI0248,1) Self,rakesh177@gmail.com,9849064645
+Gudur Jacob,Spouse,20/10/1968,49,Male,LI0248,LI0248,2) Spouse,rakesh177@gmail.com,9849064645
+G.J.Ayush,Children,14/06/2005,13,Male,LI0248,LI0248,3) Children,rakesh177@gmail.com,9849064645
+G.J.Kundana,Children,26/02/2008,10,Female,LI0248,LI0248,3) Children,rakesh177@gmail.com,9849064645
+Naseer Ahmed,self,18-Apr-80,38,Male,LI0250,LI0250,1) Self,rakesh177@gmail.com,9849064645
+Sana Fatima,Spouse,09-Sep-86,31,Female,LI0250,LI0250,2) Spouse,rakesh177@gmail.com,9849064645
+Lubna Fatima,Children,29-Mar-09,9,Female,LI0250,LI0250,3) Children,rakesh177@gmail.com,9849064645
+Mohammed Fawaad,Children,04-Dec-10,7,Male,LI0250,LI0250,3) Children,rakesh177@gmail.com,9849064645
+Vinod Kumar Yadav,self,01-Oct-78,39,Male,LI0252,LI0252,1) Self,rakesh177@gmail.com,9849064645
+Astha,Spouse,23/03/1985,33,Female,LI0252,LI0252,2) Spouse,rakesh177@gmail.com,9849064645
+Lav,Children,23/02/2012,6,Male,LI0252,LI0252,3) Children,rakesh177@gmail.com,9849064645
+Punj,Children,23/02/2012,6,Male,LI0252,LI0252,3) Children,rakesh177@gmail.com,9849064645
+Vishwapath Shastry P V R,self,26-Jul-75,42,Male,LI0259,LI0259,1) Self,rakesh177@gmail.com,9849064645
+Vidushi P,Spouse,27/08/1980,37,Female,LI0259,LI0259,2) Spouse,rakesh177@gmail.com,9849064645
+Shashi Bhushan Rai,self,01/01/1970,48,Male,LI0263,LI0263,1) Self,rakesh177@gmail.com,9849064645
+Sushila Devi,Spouse,06/05/1976,42,Female,LI0263,LI0263,2) Spouse,rakesh177@gmail.com,9849064645
+Achchhelal,self,05-Feb-89,29,Male,LI0278,LI0278,1) Self,rakesh177@gmail.com,9849064645
+Vandana Prajapati,Spouse,27/07/1989,28,Female,LI0278,LI0278,2) Spouse,rakesh177@gmail.com,9849064645
+Anshika,Children,29/04/2011,7,Male,LI0278,LI0278,3) Children,rakesh177@gmail.com,9849064645
+Anurag Yadav,Children,30/10/2012,5,Male,LI0278,LI0278,3) Children,rakesh177@gmail.com,9849064645
+Bashudeo Mandal,self,30/12/1973,44,Male,Li0280,Li0280,1) Self,rakesh177@gmail.com,9849064645
+Kushamadevi,Spouse,13/08/1978,39,Female,Li0280,Li0280,2) Spouse,rakesh177@gmail.com,9849064645
+Jai Prakash,Children,11/04/2003,15,Male,Li0280,Li0280,3) Children,rakesh177@gmail.com,9849064645
+Prithi Kumari,Children,09/03/2008,10,Female,Li0280,Li0280,3) Children,rakesh177@gmail.com,9849064645
+Neearj Kumar,Children,01/06/2010,8,Male,Li0280,Li0280,3) Children,rakesh177@gmail.com,9849064645
+Dipankar Baishya,self,01-Mar-73,45,Male,LI0281,LI0281,1) Self,rakesh177@gmail.com,9849064645
+Maturi Hazarika Baishya,Spouse,15/12/1973,44,Female,LI0281,LI0281,2) Spouse,rakesh177@gmail.com,9849064645
+Nirrvan Baishya,Children,04/09/2004,13,Male,LI0281,LI0281,3) Children,rakesh177@gmail.com,9849064645
+Yeshwant V Deshmukh,self,19-Dec-73,44,Male,LI0285,LI0285,1) Self,rakesh177@gmail.com,9849064645
+Tripti Y.Deshmukh,Spouse,19/07/1978,40,Female,LI0285,LI0285,2) Spouse,rakesh177@gmail.com,9849064645
+Manjiri Y Deshmukh,Children,20/03/2008,10,Male,LI0285,LI0285,3) Children,rakesh177@gmail.com,9849064645
+Munish Kumar,self,15-Mar-82,36,Male,LI0286,LI0286,1) Self,rakesh177@gmail.com,9849064645
+Anshu Kashyap,Spouse,03/07/1990,28,Female,LI0286,LI0286,2) Spouse,rakesh177@gmail.com,9849064645
+Manashvi,Children,10/04/2012,6,Female,LI0286,LI0286,3) Children,rakesh177@gmail.com,9849064645
+Kapil Kumar,self,12-Sep-89,28,Male,LI0287,LI0287,1) Self,rakesh177@gmail.com,9849064645
+Navendra Kumar Trivedi,self,29-Sep-84,33,Male,LI0289,LI0289,1) Self,rakesh177@gmail.com,9849064645
+Shradha Trivedi,Spouse,08/05/1981,37,Female,LI0289,LI0289,2) Spouse,rakesh177@gmail.com,9849064645
+Aarna Trivedi,Children,15/04/2013,5,Female,LI0289,LI0289,3) Children,rakesh177@gmail.com,9849064645
+Sharat Babu Sonnad,self,25-Sep-81,36,Male,LI0291,LI0291,1) Self,rakesh177@gmail.com,9849064645
+Veena Sonnad,Spouse,04/05/1990,28,Female,LI0291,LI0291,2) Spouse,rakesh177@gmail.com,9849064645
+Samanvita,Children,15/07/2013,5,Female,LI0291,LI0291,3) Children,rakesh177@gmail.com,9849064645
+K. Tirupala Eswaraiah,self,01-Jun-73,45,Male,LI0297,LI0297,1) Self,rakesh177@gmail.com,9849064645
+Konkala Radha,Spouse,24/07/1978,40,Female,LI0297,LI0297,2) Spouse,rakesh177@gmail.com,9849064645
+Konkala Jaikrishna,Children,24/03/1998,20,Male,LI0297,LI0297,3) Children,rakesh177@gmail.com,9849064645
+Konkala Umadevi,Children,26/07/2000,17,Female,LI0297,LI0297,3) Children,rakesh177@gmail.com,9849064645
+B.B. Nataraja,self,07-Apr-82,36,Male,LI0299,LI0299,1) Self,rakesh177@gmail.com,9849064645
+Chethana,Spouse,15/07/1989,29,Female,LI0299,LI0299,2) Spouse,rakesh177@gmail.com,9849064645
+Darekar Rajendra Suresh,self,10-Jan-87,31,Male,LI0303,LI0303,1) Self,rakesh177@gmail.com,9849064645
+Priyanka Rajendra Darekar,Spouse,29/08/1989,28,Female,LI0303,LI0303,2) Spouse,rakesh177@gmail.com,9849064645
+P.G. Gangadhar,self,01-Jun-67,51,Male,LI0309,LI0309,1) Self,rakesh177@gmail.com,9849064645
+Rajeshwari  H K,Spouse,30/03/1975,43,Female,LI0309,LI0309,2) Spouse,rakesh177@gmail.com,9849064645
+Vijayalakshmi S G,Children,08/03/2001,17,Female,LI0309,LI0309,3) Children,rakesh177@gmail.com,9849064645
+Vinutha S G,Children,27/06/2003,15,Female,LI0309,LI0309,3) Children,rakesh177@gmail.com,9849064645
+Veeresh C Bijalwade,self,01-Aug-85,32,Male,LI0310,LI0310,1) Self,rakesh177@gmail.com,9849064645
+Akkamahadevi,Spouse,07-Jul-92,26,Female,LI0310,LI0310,2) Spouse,rakesh177@gmail.com,9849064645
+Nikhil Kumar Biswas,self,10-Feb-74,44,Male,LI0311,LI0311,1) Self,rakesh177@gmail.com,9849064645
+Sabita Biswas,Spouse,10/02/1979,39,Female,LI0311,LI0311,2) Spouse,rakesh177@gmail.com,9849064645
+Ashutosh Kumar Biswas,Children,01/10/1994,23,Male,LI0311,LI0311,3) Children,rakesh177@gmail.com,9849064645
+Shubham Biswas,Children,05/03/1997,21,Male,LI0311,LI0311,3) Children,rakesh177@gmail.com,9849064645
+Keerthy Prasad Rudraiah,self,13-Aug-74,43,Male,LI0312,LI0312,1) Self,rakesh177@gmail.com,9849064645
+Rajesh Kumar,self,24-Apr-71,47,Male,LI0313,LI0313,1) Self,rakesh177@gmail.com,9849064645
+Shweta Devi,Spouse,12/11/1975,42,Female,LI0313,LI0313,2) Spouse,rakesh177@gmail.com,9849064645
+Tanishka Raj,Children,12/02/2003,15,Female,LI0313,LI0313,3) Children,rakesh177@gmail.com,9849064645
+Tejas Raj,Children,23/06/2006,12,Male,LI0313,LI0313,3) Children,rakesh177@gmail.com,9849064645
+Vijendra Singh,self,09-Jul-89,29,Male,LI0314,LI0314,1) Self,rakesh177@gmail.com,9849064645
+Bipin Chandra,self,15-Jul-83,35,Male,LI0315,LI0315,1) Self,rakesh177@gmail.com,9849064645
+Indu Sharma,Spouse,06/03/1987,31,Female,LI0315,LI0315,2) Spouse,rakesh177@gmail.com,9849064645
+Swadha Sharma,Children,30/12/2014,3,Female,LI0315,LI0315,3) Children,rakesh177@gmail.com,9849064645
+Uma Shankar,self,22-Aug-83,34,Male,LI0316,LI0316,1) Self,rakesh177@gmail.com,9849064645
+Avani Kumar Pal,self,01-Aug-86,31,Male,LI0317,LI0317,1) Self,rakesh177@gmail.com,9849064645
+Shashi Pal,Spouse,13/05/1990,28,Female,LI0317,LI0317,2) Spouse,rakesh177@gmail.com,9849064645
+Chavi Pal,Children,27/08/2012,5,Male,LI0317,LI0317,3) Children,rakesh177@gmail.com,9849064645
+Ankur Pal,Children,23/07/2014,3,Male,LI0317,LI0317,3) Children,rakesh177@gmail.com,9849064645
+Ruchi Rajendrakumar Shah,self,08-Sep-86,31,Female,LI0319,LI0319,1) Self,rakesh177@gmail.com,9849064645
+V.Srinivas Reddy,self,10-May-83,35,Male,LI0320,LI0320,1) Self,rakesh177@gmail.com,9849064645
+V.Sanjana,Spouse,13-Jul-99,19,Female,LI0320,LI0320,2) Spouse,rakesh177@gmail.com,9849064645
+V.Akeitha,Children,10-Nov-12,5,Female,LI0320,LI0320,3) Children,rakesh177@gmail.com,9849064645
+V.Rishik Reddy,Children,21/05/2014,4,Male,LI0320,LI0320,3) Children,rakesh177@gmail.com,9849064645
+Prakash Gangaram Budhewar,self,11/04/1988,30,Male,LI0321,LI0321,1) Self,rakesh177@gmail.com,9849064645
+M.Ravikanth,self,24-Apr-84,34,Male,LI0322,LI0322,1) Self,rakesh177@gmail.com,9849064645
+M.Swathi ,Spouse,04-Jan-86,32,Female,LI0322,LI0322,2) Spouse,rakesh177@gmail.com,9849064645
+Dikshitha,Children,10-Dec-13,4,Female,LI0322,LI0322,3) Children,rakesh177@gmail.com,9849064645
+Satish Kumar Rai,self,12-Aug-91,26,Male,LI0323,LI0323,1) Self,rakesh177@gmail.com,9849064645
+Onkar Sharma,self,02-Jul-76,42,Male,LI0324,LI0324,1) Self,rakesh177@gmail.com,9849064645
+Mamata Rani,Spouse,04-May-76,42,Female,LI0324,LI0324,2) Spouse,rakesh177@gmail.com,9849064645
+Apoorv Raj Sharma,Children,26-Mar-11,7,Male,LI0324,LI0324,3) Children,rakesh177@gmail.com,9849064645
+Apoorvi Raj Sharma,Children,15-Nov-13,4,Male,LI0324,LI0324,3) Children,rakesh177@gmail.com,9849064645
+Ankul Kumar Singh,self,20-Sep-82,35,Male,LI0325,LI0325,1) Self,rakesh177@gmail.com,9849064645
+Juhee Singh,Spouse,20/07/1991,27,Female,LI0325,LI0325,2) Spouse,rakesh177@gmail.com,9849064645
+S.V.R.Reddy,self,02-Mar-81,37,Male,LI0326,LI0326,1) Self,rakesh177@gmail.com,9849064645
+Srujana.S,Spouse,18/11/1992,25,Female,LI0326,LI0326,2) Spouse,rakesh177@gmail.com,9849064645
+Jasreetha.S,Children,05/09/2014,3,Female,LI0326,LI0326,3) Children,rakesh177@gmail.com,9849064645
+Mahendra Pal,self,05-Jul-91,27,Male,LI0327,LI0327,1) Self,rakesh177@gmail.com,9849064645
+Krishnand Pandey,self,01-Jun-74,44,Male,LI0328,LI0328,1) Self,rakesh177@gmail.com,9849064645
+Anju Sen,self,03-Jul-83,35,Male,LI0330,LI0330,1) Self,rakesh177@gmail.com,9849064645
+Asit Sen,Spouse,17-Sep-76,41,Female,LI0330,LI0330,2) Spouse,rakesh177@gmail.com,9849064645
+Ankshita Srivastava,Children,09-Dec-11,6,Female,LI0330,LI0330,3) Children,rakesh177@gmail.com,9849064645
+K.Ravi Kumar,self,04-Jan-89,29,Male,LI0331,LI0331,1) Self,rakesh177@gmail.com,9849064645
+K Swapna,Spouse,21-Nov-91,26,Female,LI0331,LI0331,2) Spouse,rakesh177@gmail.com,9849064645
+Anurag Sengar,self,14-Jul-84,34,Male,LI0332,LI0332,1) Self,rakesh177@gmail.com,9849064645
+Deepti Sengar,Spouse,18-Nov-84,33,Female,LI0332,LI0332,2) Spouse,rakesh177@gmail.com,9849064645
+Mudeet Sengar,Children,04-Jun-14,4,Male,LI0332,LI0332,3) Children,rakesh177@gmail.com,9849064645
+Pankaj Singh,self,23-Apr-83,35,Male,LI0333,LI0333,1) Self,rakesh177@gmail.com,9849064645
+Dibya Singh,Spouse,15-Dec-87,30,Female,LI0333,LI0333,2) Spouse,rakesh177@gmail.com,9849064645
+Atharv Singh,Children,16-Nov-12,5,Male,LI0333,LI0333,3) Children,rakesh177@gmail.com,9849064645
+Rajeev Nair,self,21-Aug-78,39,Male,LI0334,LI0334,1) Self,rakesh177@gmail.com,9849064645
+Ragini Nair,Spouse,28-Jun-83,35,Female,LI0334,LI0334,2) Spouse,rakesh177@gmail.com,9849064645
+Ritishaa Nair,Children,02-Jul-08,10,Female,LI0334,LI0334,3) Children,rakesh177@gmail.com,9849064645
+Rithvika Nair,Children,27-Jun-13,5,Female,LI0334,LI0334,3) Children,rakesh177@gmail.com,9849064645
+Amjad Khan,self,04-Jun-79,39,Male,LI0335,LI0335,1) Self,rakesh177@gmail.com,9849064645
+Zai Bunnisa Banu,Spouse,28-Dec-75,42,Female,LI0335,LI0335,2) Spouse,rakesh177@gmail.com,9849064645
+Mohd. Noman Khan,Children,02-Jun-10,8,Male,LI0335,LI0335,3) Children,rakesh177@gmail.com,9849064645
+Mohd Luqman Khan,Children,06-Sep-11,6,Male,LI0335,LI0335,3) Children,rakesh177@gmail.com,9849064645
+Veeresh S.Vitlapur,self,01-Jun-87,31,Male,LI0336,LI0336,1) Self,rakesh177@gmail.com,9849064645
+Anupam B R,Spouse,02-Jun-88,30,Female,LI0336,LI0336,2) Spouse,rakesh177@gmail.com,9849064645
+Sannidhi V Vitlapur ,Children,22/02/2016,2,Female,LI0336,LI0336,3) Children,rakesh177@gmail.com,9849064645
+Kaushal Kishore Keshri,self,13-Dec-78,39,Male,LI0337,LI0337,1) Self,rakesh177@gmail.com,9849064645
+Priyanka Keshr,Spouse,17-Apr-85,33,Female,LI0337,LI0337,2) Spouse,rakesh177@gmail.com,9849064645
+Keshar,Children,03-Mar-08,10,Male,LI0337,LI0337,3) Children,rakesh177@gmail.com,9849064645
+Naina,Children,30-Jun-11,7,Female,LI0337,LI0337,3) Children,rakesh177@gmail.com,9849064645
+Girish Shivajirao torawance,self,26-Jul-84,33,Male,LI0339,LI0339,1) Self,rakesh177@gmail.com,9849064645
+Vaishali Girish Torawane,Spouse,17-May-86,32,Female,LI0339,LI0339,2) Spouse,rakesh177@gmail.com,9849064645
+Ghanshyam Singh Baghel,self,18-Aug-86,31,Male,LI0340,LI0340,1) Self,rakesh177@gmail.com,9849064645
+ Neelam ,Spouse,09/12/1986,31,Female,LI0340,LI0340,2) Spouse,rakesh177@gmail.com,9849064645
+Nagaraj H Mudigoudar,self,16-Jul-78,40,Male,LI0341,LI0341,1) Self,rakesh177@gmail.com,9849064645
+Halamma N M,Spouse,15-Jun-84,34,Female,LI0341,LI0341,2) Spouse,rakesh177@gmail.com,9849064645
+Archit N M,Children,30-Jul-13,4,Male,LI0341,LI0341,3) Children,rakesh177@gmail.com,9849064645
+B.Mahesh Kumar,self,20-Apr-85,33,Male,LI0342,LI0342,1) Self,rakesh177@gmail.com,9849064645
+Ashwini Kumar pandey,self,31-Jan-81,37,Male,Li0344,Li0344,1) Self,rakesh177@gmail.com,9849064645
+Supriya Pandey,Spouse,21-Jan-86,32,Female,Li0344,Li0344,2) Spouse,rakesh177@gmail.com,9849064645
+Jiya Pandey,Children,06-Dec-04,13,Female,Li0344,Li0344,3) Children,rakesh177@gmail.com,9849064645
+Shreya Pandey,Children,04-Jun-06,12,Female,Li0344,Li0344,3) Children,rakesh177@gmail.com,9849064645
+Sunil Kumar Singh,self,27-Dec-69,48,Male,LI0348,LI0348,1) Self,rakesh177@gmail.com,9849064645
+Rupsadhana,Spouse,27/08/1975,42,Female,LI0348,LI0348,2) Spouse,rakesh177@gmail.com,9849064645
+Kajal Kumari,Children,28/06/1995,23,Female,LI0348,LI0348,3) Children,rakesh177@gmail.com,9849064645
+Vinu Kumari,Children,04/12/2007,10,Female,LI0348,LI0348,3) Children,rakesh177@gmail.com,9849064645
+Saurav Suman,self,01-Mar-80,38,Male,LI0349,LI0349,1) Self,rakesh177@gmail.com,9849064645
+Akshit Raj,Children,29/07/2012,5,Male,LI0349,LI0349,3) Children,rakesh177@gmail.com,9849064645
+Anil Kumar G,self,09-Aug-68,49,Male,LI0351,LI0351,1) Self,rakesh177@gmail.com,9849064645
+Beby Devi,Spouse,01-Jan-73,45,Female,LI0351,LI0351,2) Spouse,rakesh177@gmail.com,9849064645
+Ujjawal kant,Children,01-Jan-04,14,Male,LI0351,LI0351,3) Children,rakesh177@gmail.com,9849064645
+Prabhash Kumar Agrawal,self,01-Mar-78,40,Male,LI0353,LI0353,1) Self,rakesh177@gmail.com,9849064645
+Sangita Agrawal,Spouse,20-Oct-88,29,Female,LI0353,LI0353,2) Spouse,rakesh177@gmail.com,9849064645
+Tushar Agrawal,Children,29-Mar-05,13,Male,LI0353,LI0353,3) Children,rakesh177@gmail.com,9849064645
+Rohan Agrawal,Children,09-Feb-07,11,Male,LI0353,LI0353,3) Children,rakesh177@gmail.com,9849064645
+Bhanu Sarvan Kumar,self,02-Mar-88,30,Male,LI0355,LI0355,1) Self,rakesh177@gmail.com,9849064645
+Dinesh Kumar Suthar,self,06-Jun-86,32,Male,LI0357,LI0357,1) Self,rakesh177@gmail.com,9849064645
+Aarti Suthar,Spouse,02/08/1989,28,Female,LI0357,LI0357,2) Spouse,rakesh177@gmail.com,9849064645
+Dhiraj Suthar,Children,18/08/2013,4,Male,LI0357,LI0357,3) Children,rakesh177@gmail.com,9849064645
+RK Sampath Kumar,self,01-Mar-90,28,Male,LI0358,LI0358,1) Self,rakesh177@gmail.com,9849064645
+R K Sowmya,Spouse,04/02/1995,23,Female,LI0358,LI0358,2) Spouse,rakesh177@gmail.com,9849064645
+Satveer Sharma ,self,25-Jul-82,35,Male,LI0359,LI0359,1) Self,rakesh177@gmail.com,9849064645
+M Rama Krishna,self,06-Jul-72,46,Male,LI0361,LI0361,1) Self,rakesh177@gmail.com,9849064645
+MVA Suvarchala,Spouse,02-Aug-79,38,Female,LI0361,LI0361,2) Spouse,rakesh177@gmail.com,9849064645
+M Vani Varshini,Children,03-Jul-05,13,Female,LI0361,LI0361,3) Children,rakesh177@gmail.com,9849064645
+M Pavani Pranati,Children,12-Feb-09,9,Female,LI0361,LI0361,3) Children,rakesh177@gmail.com,9849064645
+Amit Tomar,self,14-Jul-82,36,Male,LI0362,LI0362,1) Self,rakesh177@gmail.com,9849064645
+Rakesh Bine,self,03-Jun-84,34,Male,LI0363,LI0363,1) Self,rakesh177@gmail.com,9849064645
+J Saravanan,self,07-Jun-83,35,Male,LI0364,LI0364,1) Self,rakesh177@gmail.com,9849064645
+P Janitha,Spouse,12-Apr-85,33,Female,LI0364,LI0364,2) Spouse,rakesh177@gmail.com,9849064645
+S Kavish,Children,26-Sep-11,6,Male,LI0364,LI0364,3) Children,rakesh177@gmail.com,9849064645
+Binod Kumar,self,25-Nov-69,48,Male,LI0365,LI0365,1) Self,rakesh177@gmail.com,9849064645
+Ramdulari Devi,Spouse,15-May-73,45,Female,LI0365,LI0365,2) Spouse,rakesh177@gmail.com,9849064645
+Ravi Bhushan Raut,Children,16-Apr-03,15,Male,LI0365,LI0365,3) Children,rakesh177@gmail.com,9849064645
+Brij Bhushan Raut,Children,15-Oct-06,11,Male,LI0365,LI0365,3) Children,rakesh177@gmail.com,9849064645
+Shashi Bhushan Raut,Children,29-Jun-08,10,Male,LI0365,LI0365,3) Children,rakesh177@gmail.com,9849064645
+Kumar U.M,self,10-Jun-80,38,Male,LI0366,LI0366,1) Self,rakesh177@gmail.com,9849064645
+Lavanya,Spouse,05-Dec-84,33,Female,LI0366,LI0366,2) Spouse,rakesh177@gmail.com,9849064645
+Karunakar Cheruku,self,05-May-82,36,Male,LI0367,LI0367,1) Self,rakesh177@gmail.com,9849064645
+Pushpakala CH,Spouse,10-May-84,34,Female,LI0367,LI0367,2) Spouse,rakesh177@gmail.com,9849064645
+Wamika CH,Children,19-Apr-09,9,Female,LI0367,LI0367,3) Children,rakesh177@gmail.com,9849064645
+Dikshika,Children,28-Jan-12,6,Female,LI0367,LI0367,3) Children,rakesh177@gmail.com,9849064645
+Ravindra V Chavadi,self,01-Apr-84,34,Male,LI0368,LI0368,1) Self,rakesh177@gmail.com,9849064645
+Shruti V,Spouse,19-May-91,27,Female,LI0368,LI0368,2) Spouse,rakesh177@gmail.com,9849064645
+Dahatonde Prashant Babasaheb,self,04-Jan-88,30,Male,LI0369,LI0369,1) Self,rakesh177@gmail.com,9849064645
+Shubhangi Prashant D,Spouse,11-Jul-93,25,Female,LI0369,LI0369,2) Spouse,rakesh177@gmail.com,9849064645
+Richa Pandey,self,16-Nov-81,36,Female,LI0371,LI0371,1) Self,rakesh177@gmail.com,9849064645
+Dr. Ravindra Prakash,Spouse,22-Jun-81,37,Male,LI0371,LI0371,2) Spouse,rakesh177@gmail.com,9849064645
+Vaishnavi Pandey,Children,26-Mar-12,6,Female,LI0371,LI0371,3) Children,rakesh177@gmail.com,9849064645
+Manender  Singh,self,04/11/1980,37,Male,LI0372,LI0372,1) Self,rakesh177@gmail.com,9849064645
+Inderdeep Kaur,Spouse,18-Sep-81,36,Female,LI0372,LI0372,2) Spouse,rakesh177@gmail.com,9849064645
+Dhananjay Kumar ,self,02-Jan-87,31,Male,Li0373,Li0373,1) Self,rakesh177@gmail.com,9849064645
+Shimpi Kumari,Spouse,15-Jan-92,26,Female,Li0373,Li0373,2) Spouse,rakesh177@gmail.com,9849064645
+Smriti Singh,Children,08-Aug-11,6,Female,Li0373,Li0373,3) Children,rakesh177@gmail.com,9849064645
+Hardeep Singh,self,05-Jun-80,38,Male,LI0375,LI0375,1) Self,rakesh177@gmail.com,9849064645
+Surinder Kaur,Spouse,20-Oct-80,37,Female,LI0375,LI0375,2) Spouse,rakesh177@gmail.com,9849064645
+Arshpreet Kaur,Children,06-Nov-10,7,Female,LI0375,LI0375,3) Children,rakesh177@gmail.com,9849064645
+Rakesh Kumar,self,17-Aug-81,36,Male,LI0376,LI0376,1) Self,rakesh177@gmail.com,9849064645
+Suresh Devi,Spouse,19-Oct-82,35,Female,LI0376,LI0376,2) Spouse,rakesh177@gmail.com,9849064645
+Anish,Children,25-Dec-04,13,Female,LI0376,LI0376,3) Children,rakesh177@gmail.com,9849064645
+Manohar Lal Meena,self,04-Apr-81,37,Male,LI0378,LI0378,1) Self,rakesh177@gmail.com,9849064645
+Santhosh Devi,Spouse,15-Oct-85,32,Female,LI0378,LI0378,2) Spouse,rakesh177@gmail.com,9849064645
+Sachin Meena,Children,15-Oct-06,11,Male,LI0378,LI0378,3) Children,rakesh177@gmail.com,9849064645
+Man Mohit Meena,Children,07-Jul-08,10,Male,LI0378,LI0378,3) Children,rakesh177@gmail.com,9849064645
+Arvind Kumar Singh Gaur,self,31-Mar-77,41,Male,LI0379,LI0379,1) Self,rakesh177@gmail.com,9849064645
+Pratibha Singh,Spouse,12-Apr-78,40,Female,LI0379,LI0379,2) Spouse,rakesh177@gmail.com,9849064645
+Anurag Singh,Children,11-Mar-10,8,Male,LI0379,LI0379,3) Children,rakesh177@gmail.com,9849064645
+Shristi Singh,Children,26-Aug-14,3,Female,LI0379,LI0379,3) Children,rakesh177@gmail.com,9849064645
+D.Nithya,self,03-Nov-86,31,Female,LI0380,LI0380,1) Self,rakesh177@gmail.com,9849064645
+Mahesh Chavan,Spouse,01-Jan-87,31,Male,LI0380,LI0380,2) Spouse,rakesh177@gmail.com,9849064645
+Vunshika Mahesh Chavan,Children,11-Apr-16,2,Female,LI0380,LI0380,3) Children,rakesh177@gmail.com,9849064645
+Venkata Pavan Kumar Nalluri,self,21-Jun-87,31,Male,LI0381,LI0381,1) Self,rakesh177@gmail.com,9849064645
+Dr.Muneendra Kumar Singh,self,03-Jul-79,39,Male,LI0382,LI0382,1) Self,rakesh177@gmail.com,9849064645
+Reeta Chauhan,Spouse,20-Dec-83,34,Female,LI0382,LI0382,2) Spouse,rakesh177@gmail.com,9849064645
+Trisha Singh,Children,12-Jun-09,9,Female,LI0382,LI0382,3) Children,rakesh177@gmail.com,9849064645
+Garima Singh,Children,09-May-14,4,Female,LI0382,LI0382,3) Children,rakesh177@gmail.com,9849064645
+Neeraj Bhatt,self,22-Nov-88,29,Male,Li0383,Li0383,1) Self,rakesh177@gmail.com,9849064645
+R Shankar Gouda,self,01-Jun-73,45,Male,LI0384,LI0384,1) Self,rakesh177@gmail.com,9849064645
+Umashankar Gouda,Spouse,01-Jun-76,42,Female,LI0384,LI0384,2) Spouse,rakesh177@gmail.com,9849064645
+Saptami Patil,Children,14-May-04,14,Female,LI0384,LI0384,3) Children,rakesh177@gmail.com,9849064645
+Siri S Patil,Children,06-Dec-07,10,Female,LI0384,LI0384,3) Children,rakesh177@gmail.com,9849064645
+Rahul Kumar Singh,self,13-Dec-91,26,Male,LI0387,LI0387,1) Self,rakesh177@gmail.com,9849064645
+Sandeep Sinha,self,25-Feb-80,38,Male,Li0388,Li0388,1) Self,rakesh177@gmail.com,9849064645
+Shikha Sinha,Spouse,15-Jul-82,36,Female,Li0388,Li0388,2) Spouse,rakesh177@gmail.com,9849064645
+Raina Sinha,Children,16-Sep-04,13,Female,Li0388,Li0388,3) Children,rakesh177@gmail.com,9849064645
+Ashi Sinha,Children,27-Mar-06,12,Female,Li0388,Li0388,3) Children,rakesh177@gmail.com,9849064645
+Rakesh Kumar Singh,self,15-Apr-73,45,Male,LI0389,LI0389,1) Self,rakesh177@gmail.com,9849064645
+Mira Kumari,Spouse,18-Jan-75,43,Female,LI0389,LI0389,2) Spouse,rakesh177@gmail.com,9849064645
+Rashi Singh,Children,22-Aug-05,12,Female,LI0389,LI0389,3) Children,rakesh177@gmail.com,9849064645
+B.Koteshwar,self,18-Apr-94,24,Male,LI0390,LI0390,1) Self,rakesh177@gmail.com,9849064645
+Banda Vijayakumar Reddy,self,25-Jun-85,33,Male,LI0391,LI0391,1) Self,rakesh177@gmail.com,9849064645
+B.Swapna,Spouse,01-Jan-88,30,Female,LI0391,LI0391,2) Spouse,rakesh177@gmail.com,9849064645
+Mahima,Children,26-Jun-12,6,Female,LI0391,LI0391,3) Children,rakesh177@gmail.com,9849064645
+Hansith Reddy,Children,16-Mar-14,4,Male,LI0391,LI0391,3) Children,rakesh177@gmail.com,9849064645
+Banda Vijay Kumar Reddy,self,25/06/1985,33,Male,LI0391,LI0391,1) Self,rakesh177@gmail.com,9849064645
+Swapna,Spouse,01/01/1988,30,Female,LI0391,LI0391,2) Spouse,rakesh177@gmail.com,9849064645
+V.Madhav,self,24-Jan-79,39,Male,LI0392,LI0392,1) Self,rakesh177@gmail.com,9849064645
+V.Sreevani,Spouse,03-Aug-83,34,Female,LI0392,LI0392,2) Spouse,rakesh177@gmail.com,9849064645
+V.Vikasini,Children,31-Mar-08,10,Female,LI0392,LI0392,3) Children,rakesh177@gmail.com,9849064645
+V.Medha,Children,28-Jan-12,6,Female,LI0392,LI0392,3) Children,rakesh177@gmail.com,9849064645
+V.Syam,self,01-Jun-69,49,Male,LI0393,LI0393,1) Self,rakesh177@gmail.com,9849064645
+V.Samurna,Spouse,24-Jan-81,37,Female,LI0393,LI0393,2) Spouse,rakesh177@gmail.com,9849064645
+V.Vineela,Children,28-Aug-00,17,Female,LI0393,LI0393,3) Children,rakesh177@gmail.com,9849064645
+V.Vijytha,Children,25-Dec-02,15,Female,LI0393,LI0393,3) Children,rakesh177@gmail.com,9849064645
+V.Vinay,Children,28-Oct-04,13,Male,LI0393,LI0393,3) Children,rakesh177@gmail.com,9849064645
+Mahemud Makbul Fateh,self,20-Aug-71,46,Male,LI0394,LI0394,1) Self,rakesh177@gmail.com,9849064645
+Sufiya,Spouse,15-Dec-71,46,Female,LI0394,LI0394,2) Spouse,rakesh177@gmail.com,9849064645
+Shama,Children,20-Aug-98,19,Female,LI0394,LI0394,3) Children,rakesh177@gmail.com,9849064645
+Fahim,Children,17-Dec-00,17,Male,LI0394,LI0394,3) Children,rakesh177@gmail.com,9849064645
+Gopagani Shankar,self,20-Jun-74,44,Male,LI0395,LI0395,1) Self,rakesh177@gmail.com,9849064645
+Gopagani Radhika,Spouse,10-Mar-77,41,Female,LI0395,LI0395,2) Spouse,rakesh177@gmail.com,9849064645
+Gopagani Gopi Chendu,Children,20-Feb-01,17,Male,LI0395,LI0395,3) Children,rakesh177@gmail.com,9849064645
+Gopanani Sravani,Children,05-Feb-04,14,Female,LI0395,LI0395,3) Children,rakesh177@gmail.com,9849064645
+Mahammed Abdul Basith,self,13-Jun-84,34,Male,LI0396,LI0396,1) Self,rakesh177@gmail.com,9849064645
+Yasmin Sultana,Spouse,30-Sep-82,35,Female,LI0396,LI0396,2) Spouse,rakesh177@gmail.com,9849064645
+Abdhesh Umar Duvey,self,03-Jul-83,35,Male,LI0397,LI0397,1) Self,rakesh177@gmail.com,9849064645
+Prachi Duvey,Spouse,20-Apr-90,28,Female,LI0397,LI0397,2) Spouse,rakesh177@gmail.com,9849064645
+Krishna Duvey,Children,15-Sep-08,9,Male,LI0397,LI0397,3) Children,rakesh177@gmail.com,9849064645
+Vishnu Duvey,Children,05-Oct-11,6,Male,LI0397,LI0397,3) Children,rakesh177@gmail.com,9849064645
+Ravi Kumar Srivastava,self,12-Jul-77,41,Male,LI0398,LI0398,1) Self,rakesh177@gmail.com,9849064645
+Namita Srivastava,Spouse,12-Dec-81,36,Female,LI0398,LI0398,2) Spouse,rakesh177@gmail.com,9849064645
+Angel,Children,05-Aug-12,5,Female,LI0398,LI0398,3) Children,rakesh177@gmail.com,9849064645
+Segal,Children,05-Aug-12,5,Female,LI0398,LI0398,3) Children,rakesh177@gmail.com,9849064645
+Shaurya Srivastava,Children,16-Oct-13,4,Male,LI0398,LI0398,3) Children,rakesh177@gmail.com,9849064645
+V.Sai Reddy,self,01-Oct-92,25,Male,LI0399,LI0399,1) Self,rakesh177@gmail.com,9849064645
+V.Jayasree,Spouse,12-Jun-93,25,Female,LI0399,LI0399,2) Spouse,rakesh177@gmail.com,9849064645
+V.Saireddy,self,01/10/1992,25,Male,Li0399,Li0399,1) Self,rakesh177@gmail.com,9849064645
+Jitendra Kumar Patidar,self,16-Dec-80,37,Male,LI0400,LI0400,1) Self,rakesh177@gmail.com,9849064645
+Bharti,Spouse,06-Apr-84,34,Female,LI0400,LI0400,2) Spouse,rakesh177@gmail.com,9849064645
+Swastik,Children,01-May-08,10,Female,LI0400,LI0400,3) Children,rakesh177@gmail.com,9849064645
+Nidhi,Children,25-Nov-11,6,Male,LI0400,LI0400,3) Children,rakesh177@gmail.com,9849064645
+Prasanth Bashetti,self,08-Aug-79,38,Male,LI0401,LI0401,1) Self,rakesh177@gmail.com,9849064645
+Swetha,Spouse,28-Dec-85,32,Female,LI0401,LI0401,2) Spouse,rakesh177@gmail.com,9849064645
+Pracheth,Children,13-Feb-13,5,Male,LI0401,LI0401,3) Children,rakesh177@gmail.com,9849064645
+Amit Kumar Singh,self,04-Feb-75,43,Male,Li0402,Li0402,1) Self,rakesh177@gmail.com,9849064645
+Ranjw Singh,Spouse,28-Dec-78,39,Female,Li0402,Li0402,2) Spouse,rakesh177@gmail.com,9849064645
+Nikhil Singh,Children,17-Oct-06,11,Female,Li0402,Li0402,3) Children,rakesh177@gmail.com,9849064645
+Sambhavi Singh,Children,22-Feb-13,5,Male,Li0402,Li0402,3) Children,rakesh177@gmail.com,9849064645
+Ranju Singh,Spouse,28-Dec-78,39,Female,Li0402,Li0402,2) Spouse,rakesh177@gmail.com,9849064645
+Chandrashekar Singh,self,01-Jul-83,35,Male,LI0403,LI0403,1) Self,rakesh177@gmail.com,9849064645
+Prem Sheela Singh,Spouse,15-Jul-84,34,Female,LI0403,LI0403,2) Spouse,rakesh177@gmail.com,9849064645
+Rishika Singh,Children,02-Sep-08,9,Female,LI0403,LI0403,3) Children,rakesh177@gmail.com,9849064645
+Rudra Singh,Children,17-Aug-14,3,Male,LI0403,LI0403,3) Children,rakesh177@gmail.com,9849064645
+Chandrashekhar Singh,self,01-Jul-83,35,Male,LI0403,LI0403,1) Self,rakesh177@gmail.com,9849064645
+Premsheela,Spouse,15-Jul-84,34,Female,LI0403,LI0403,2) Spouse,rakesh177@gmail.com,9849064645
+Atul Kumar Singh,self,02-Jul-78,40,Male,LI0404,LI0404,1) Self,rakesh177@gmail.com,9849064645
+Sarita Singh,Spouse,05-Oct-79,38,Female,LI0404,LI0404,2) Spouse,rakesh177@gmail.com,9849064645
+Shruti Singh,Children,02-Jul-03,15,Female,LI0404,LI0404,3) Children,rakesh177@gmail.com,9849064645
+Shryesh Singh,Children,02-Jul-06,12,Male,LI0404,LI0404,3) Children,rakesh177@gmail.com,9849064645
+Kamal Mandal,self,29-Jul-77,40,Male,LI0405,LI0405,1) Self,rakesh177@gmail.com,9849064645
+Mitali Sarkar,Spouse,06-Jan-86,32,Female,LI0405,LI0405,2) Spouse,rakesh177@gmail.com,9849064645
+Deepak Kumar Singh,self,01-Jan-90,28,Male,LI0406,LI0406,1) Self,rakesh177@gmail.com,9849064645
+Yuvraj Singh,Children,12-Aug-15,2,Male,LI0406,LI0406,3) Children,rakesh177@gmail.com,9849064645
+U.Madhusudhan,self,17-Jan-80,38,Male,LI0407,LI0407,1) Self,rakesh177@gmail.com,9849064645
+U.Chandrika,Spouse,10-Aug-86,31,Female,LI0407,LI0407,2) Spouse,rakesh177@gmail.com,9849064645
+U.Sricharan,Children,09-Jan-08,10,Male,LI0407,LI0407,3) Children,rakesh177@gmail.com,9849064645
+U.Srvardhan,Children,05-Nov-11,6,Male,LI0407,LI0407,3) Children,rakesh177@gmail.com,9849064645
+U Madhusudhan,self,17/01/1980,38,Male,LI0407,LI0407,1) Self,rakesh177@gmail.com,9849064645
+U Chandrika,Spouse,10/08/1986,31,Female,LI0407,LI0407,2) Spouse,rakesh177@gmail.com,9849064645
+U Sricharan,Children,09/01/2008,10,Male,LI0407,LI0407,3) Children,rakesh177@gmail.com,9849064645
+U Srivardhan,Children,05/11/2011,6,Male,LI0407,LI0407,3) Children,rakesh177@gmail.com,9849064645
+E.Nagababu,self,05-Aug-86,31,Male,LI0408,LI0408,1) Self,rakesh177@gmail.com,9849064645
+E.Pallavi,Spouse,20-Aug-87,30,Female,LI0408,LI0408,2) Spouse,rakesh177@gmail.com,9849064645
+E.K.V.Prathap,Children,09-Nov-13,4,Male,LI0408,LI0408,3) Children,rakesh177@gmail.com,9849064645
+E.Manaswini,Children,18-Jul-15,2,Female,LI0408,LI0408,3) Children,rakesh177@gmail.com,9849064645
+Mahamtesha MB,self,09-Mar-78,40,Male,LI0409,LI0409,1) Self,rakesh177@gmail.com,9849064645
+Jayamma DK,Spouse,01-Jun-79,39,Female,LI0409,LI0409,2) Spouse,rakesh177@gmail.com,9849064645
+Neha Mahanth,Children,24-May-05,13,Female,LI0409,LI0409,3) Children,rakesh177@gmail.com,9849064645
+Bhumika Mahanth,Children,11-Aug-11,6,Female,LI0409,LI0409,3) Children,rakesh177@gmail.com,9849064645
+Mahantesha M B,self,09/03/1978,40,Male,LI0409,LI0409,1) Self,rakesh177@gmail.com,9849064645
+Jayamma D K,Spouse,01/06/1979,39,Female,LI0409,LI0409,2) Spouse,rakesh177@gmail.com,9849064645
+Mansoor Khan,self,24-Apr-88,30,Male,LI0410,LI0410,1) Self,rakesh177@gmail.com,9849064645
+Rehana Begum,Spouse,19-Oct-94,23,Female,LI0410,LI0410,2) Spouse,rakesh177@gmail.com,9849064645
+Amaan Khan,Children,06-Dec-15,2,Male,LI0410,LI0410,3) Children,rakesh177@gmail.com,9849064645
+U.Vidya Sagar Naidu,self,08-Aug-91,26,Male,LI0411,LI0411,1) Self,rakesh177@gmail.com,9849064645
+Ukkalam Vidya Sagar Naidu,self,08/08/1991,26,Male,LI0411,LI0411,1) Self,rakesh177@gmail.com,9849064645
+Prem Babu Patel,self,16-Dec-89,28,Male,LI0412,LI0412,1) Self,rakesh177@gmail.com,9849064645
+Suman Kumar Biswas,self,16-Dec-80,37,Male,LI0413,LI0413,1) Self,rakesh177@gmail.com,9849064645
+Nivedita Biswas,Spouse,10-Oct-84,33,Female,LI0413,LI0413,2) Spouse,rakesh177@gmail.com,9849064645
+Ayushi Biswas,Children,05-Apr-12,6,Male,LI0413,LI0413,3) Children,rakesh177@gmail.com,9849064645
+Ayushi Bisaws,Children,05/04/2012,6,Male,LI0413,LI0413,3) Children,rakesh177@gmail.com,9849064645
+Bodige Nagaraju,self,13/11/1986,31,Male,LI0414,LI0414,1) Self,rakesh177@gmail.com,9849064645
+Divya,Spouse,14/01/1986,32,Female,LI0414,LI0414,2) Spouse,rakesh177@gmail.com,9849064645
+Akhiranand,Children,24/05/2012,6,Male,LI0414,LI0414,3) Children,rakesh177@gmail.com,9849064645
+Nagaraju Bodige,self,13/11/1986,31,Male,LI0414,LI0414,1) Self,rakesh177@gmail.com,9849064645
+Nagangowda B Patil,self,25/10/1989,28,Male,Li0417,Li0417,1) Self,rakesh177@gmail.com,9849064645
+Mahendra Singh Devada,self,22/04/1987,31,Male,Li0418,Li0418,1) Self,rakesh177@gmail.com,9849064645
+Deepak Vasantrao Patil,self,10/11/1981,36,Male,LI0419,LI0419,1) Self,rakesh177@gmail.com,9849064645
+Amrendra Pratap Singh,self,25/12/1987,30,Male,Li0420,Li0420,1) Self,rakesh177@gmail.com,9849064645
+Gaurav Jadon,self,23/07/1987,30,Male,LI0421,LI0421,1) Self,rakesh177@gmail.com,9849064645
+Basavaraj Javoor,self,31/05/1981,37,Male,LI0425,LI0425,1) Self,rakesh177@gmail.com,9849064645
+Sumangala,Spouse,31/01/1985,33,Female,LI0425,LI0425,2) Spouse,rakesh177@gmail.com,9849064645
+Parvathi,Children,16/08/2008,9,Female,LI0425,LI0425,3) Children,rakesh177@gmail.com,9849064645
+Laxmi,Children,22/08/2010,7,Female,LI0425,LI0425,3) Children,rakesh177@gmail.com,9849064645
+Preethan,Children,26/07/2012,5,Male,LI0425,LI0425,3) Children,rakesh177@gmail.com,9849064645
+Pulkit Sharma,self,23/11/1987,30,Male,Pulkit Sharma,Pulkit Sharma,1) Self,rakesh177@gmail.com,9849064645
+Yona Kondra,self,04/07/1974,44,Male,Yona Kondra,Yona Kondra,1) Self,rakesh177@gmail.com,9849064645
+Pedavalla Vasanta Rao,self,10/04/1985,33,Male,Pedavalla Vasanta Rao,Pedavalla Vasanta Rao,1) Self,rakesh177@gmail.com,9849064645
+Kamlapati Mudgal,self,30/11/1993,24,Male,Kamlapati Mudgal,Kamlapati Mudgal,1) Self,rakesh177@gmail.com,9849064645

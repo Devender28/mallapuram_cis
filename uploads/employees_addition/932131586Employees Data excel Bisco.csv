@@ -1,0 +1,7 @@
+NAME,RELATIONSHIP,DOB,AGE,SEX,ID CARD NO,EMP ID,OCCUPATION,EMAIL,PHONE
+Mr Raj,self,15/07/1987,31,m,mallapuram31,Emp123456714,developer,operations@mallapuram.com,9849064645
+Mr Raj Father,father,15/07/1965,30,m,mallapuram32,Emp123456714,self employee,operations@mallapuram.com,8790603070
+Mrs Raj Mother,mother,15/07/1970,60,f,mallapuram33,Emp123456714,housewife,operations@mallapuram.com,9866277716
+Mr Jyothi,self,15/07/1987,31,f,mallapuram41,Emp123456715,developer,mis@mallapuram.com,9849064645
+Mr Jyothi Father,father,15/07/1965,30,m,mallapuram42,Emp123456715,self employee,mis@mallapuram.com,8790603070
+Mrs Jyothi Mother,mother,15/07/1970,60,f,mallapuram43,Emp123456715,housewife,mis@mallapuram.com,9866277716

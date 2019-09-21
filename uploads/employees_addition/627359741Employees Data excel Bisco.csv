@@ -1,0 +1,7 @@
+NAME,RELATIONSHIP,DOB,AGE,SEX,ID CARD NO,EMP ID,OCCUPATION,EMAIL,PHONE
+Mr Srinivas,self,15/07/1987,31,m,mallapuram21,Emp123456711,developer,operations@mallapuram.com,9849064645
+Mr Srinivas Father,father,15/07/1965,30,m,mallapuram22,Emp123456711,self employee,operations@mallapuram.com,8790603070
+Mrs Srinivas Mother,mother,15/07/1970,60,f,mallapuram23,Emp123456711,housewife,operations@mallapuram.com,9866277716
+Mr Hussain,self,15/07/1987,31,m,mallapuram11,Emp123456711,developer,mis@mallapuram.com,9849064645
+Mr Hussain Father,father,15/07/1965,30,m,mallapuram12,Emp123456711,self employee,mis@mallapuram.com,8790603070
+Mrs Hussain Mother,mother,15/07/1970,60,f,mallapuram13,Emp123456711,housewife,mis@mallapuram.com,9866277716

@@ -1,0 +1,8 @@
+NAME,RELATIONSHIP,DOB,AGE,SEX,ID CARD NO,EMP ID,OCCUPATION,EMAIL
+rakesh,self,15-07-1987,31,m,mallapuram01,Emp123456711,developer,rakesh177@gmail.com
+rakesh  father,father,15-07-1965,30,m,mallapuram02,Emp123456711,self employee,rakesh177@gmail.com
+rakesh  mother,mother,15-07-1970,60,f,mallapuram03,Emp123456711,housewife,rakesh177@gmail.com
+rakesh  brother,brother,15-07-1988,40,m,mallapuram04,Emp123456711,self,rakesh177@gmail.com
+rakesh  sister,sister,15-07-1988,40,m,mallapuram05,Emp123456711,self,rakesh177@gmail.com
+Nag,self,15-07-1988,60,m,mallapuram,Emp123456719,self,nag@gmail.com
+vara,wife,23-12-1980,36,f,mallapuram,Emp123456719,slef,vara@gmail.com

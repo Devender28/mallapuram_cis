@@ -1,0 +1,4 @@
+NAME,RELATIONSHIP,DOB,AGE,SEX,ID CARD NO,EMP ID,OCCUPATION,EMAIL
+Suresh,self,15-07-1987,31,m,mallapuram01,Emp12345678,developer,Suresh177@gmail.com
+Suresh  father,brother,15-07-1988,30,m,mallapuram02,Emp12345679,self employee,Suresh177@gmail.com
+Sures  mother,father,15-07-1970,60,m,mallapuram03,Emp12345670,father,Suresh177@gmail.com
